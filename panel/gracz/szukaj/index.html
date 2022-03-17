@@ -1,0 +1,164 @@
+<!DOCTYPE html>
+<html lang="pl">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="shortcut icon" href="../../../files/img/hypixel-32x32.png" />
+    <title>TI Hub - Hypixel</title>
+
+    <link rel="stylesheet" href="../../../style.css" />
+    <link rel="stylesheet" href="usercard.css" />
+  </head>
+
+  <body>
+    <header>
+      <nav class="menu">
+        <ul class="menu_lista link-lista">
+          <li class="menu_grupa">
+            <a href="../../../" class="menu_link link-element text-underlined"
+              >Strona Główna</a
+            >
+          </li>
+          <li class="menu_grupa">
+            <a
+              href="/panel/gracz/"
+              class="menu_link link-element text-underlined"
+              >Panel Gracza</a
+            >
+          </li>
+          <li class="menu_grupa">
+            <a
+              href="/panel/gildia/"
+              class="menu_link link-element text-underlined"
+              >Panel Gildii</a
+            >
+          </li>
+        </ul>
+      </nav>
+    </header>
+    <article>
+      <div class="columns">
+        <div class="col-left">
+          <div class="card">
+            <div id="preloader" class="svg-loader">
+              <svg
+                class="svg-container"
+                height="100"
+                width="100"
+                viewBox="0 0 100 100"
+              >
+                <circle class="loader-svg bg" cx="50" cy="50" r="45"></circle>
+                <circle
+                  class="loader-svg animate"
+                  cx="50"
+                  cy="50"
+                  r="45"
+                ></circle>
+              </svg>
+            </div>
+            <div class="card-header wbg" style="display: none">
+              <h3>
+                Dane dla: <span id="data-ign"></span
+                ><span id="data-uuid" style="display: none"></span>
+              </h3>
+            </div>
+            <div class="card-body" id="cb-l" style="display: none">
+              <h3>
+                Gildia:
+                <span id="guildName">&lt;klik&gt;</span>
+              </h3>
+              <div class="title-header">
+                <h1>Dungeons</h1>
+              </div>
+              <div class="skill">
+                <div class="catacombs-image catacombs">
+                  <p class="skill-text">
+                    Catacombs: <span id="cata-level" class="level"></span>
+                  </p>
+                </div>
+                <div id="classes">
+                  <p class="dungeon-class skill-text">
+                    Healer: <span id="healer-level" class="level"></span>
+                  </p>
+                  <div class="box-progress-bar">
+                    <span
+                      id="healerProgress"
+                      class="box-progress"
+                      style="width: 0%; background-color: #4f3ff0"
+                    ></span>
+                  </div>
+                  <p class="dungeon-class skill-text">
+                    Mage: <span id="mage-level" class="level"></span>
+                  </p>
+                  <div class="box-progress-bar">
+                    <span
+                      id="mageProgress"
+                      class="box-progress"
+                      style="width: 0%; background-color: #4f3ff0"
+                    ></span>
+                  </div>
+                  <p class="dungeon-class skill-text">
+                    Berserk: <span id="berserk-level" class="level"></span>
+                  </p>
+                  <div class="box-progress-bar">
+                    <span
+                      id="berserkProgress"
+                      class="box-progress"
+                      style="width: 0%; background-color: #4f3ff0"
+                    ></span>
+                  </div>
+                  <p class="dungeon-class skill-text">
+                    Archer: <span id="archer-level" class="level"></span>
+                  </p>
+                  <div class="box-progress-bar">
+                    <span
+                      id="archerProgress"
+                      class="box-progress"
+                      style="width: 0%; background-color: #4f3ff0"
+                    ></span>
+                  </div>
+                  <p class="dungeon-class skill-text">
+                    Tank: <span id="tank-level" class="level"></span>
+                  </p>
+                  <div class="box-progress-bar">
+                    <span
+                      id="tankProgress"
+                      class="box-progress"
+                      style="width: 0%; background-color: #4f3ff0"
+                    ></span>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="col-right">
+          <div class="card-right">
+            <div class="card-body wbg">
+              <h3>Wyszukaj innego gracza:</h3>
+              <div class="form" style="margin-top: 0">
+                <form action="">
+                  <input
+                    type="text"
+                    id="form-ign"
+                    name="ign"
+                    placeholder="Podaj nick gracza..."
+                  />
+                  <input type="submit" value="Szukaj" />
+                </form>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <!-- <div id="user-card">
+            <div class="card-header">
+                <img src="" id="user-image"></img>
+            </div>
+        </div> -->
+    </article>
+    <script src="../../../script.js"></script>
+    <script src="player.js"></script>
+  </body>
+</html>

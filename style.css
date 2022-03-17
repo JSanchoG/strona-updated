@@ -1,0 +1,210 @@
+body {
+  font-family: segoe-ui_normal, Segoe UI, Segoe, Segoe WP, Helvetica Neue,
+    Helvetica, sans-serif;
+  margin: 0px;
+  background-color: #f2f2f2;
+}
+
+a {
+  text-decoration: none;
+}
+
+.link-element {
+  color: var(--linkColor) !important;
+  text-decoration: none !important;
+  cursor: pointer;
+}
+
+.link-lista {
+  padding-left: 0 !important;
+  margin-top: 0 !important;
+  margin-bottom: 0 !important;
+  list-style: none !important;
+}
+
+.menu {
+  --linkColor: #ffffff, currentColor;
+  /* wycentrować */
+}
+
+.menu_link {
+  display: block;
+}
+
+/* 
+  Pseudoklasa focus
+*/
+
+.menu_link:focus {
+  outline: 2px solid;
+}
+
+/* Płowienie innych elementów listy */
+.menu:hover .menu_link:not(:hover) {
+  --linkColor: var(--menuLinkUnactiveColor, rgba(22, 22, 22, 0.35));
+}
+
+.menu {
+  background-color: #f0f0f0;
+  box-shadow: 0 1px 3px 0 rgba(0, 0, 0, 0.12), 0 1px 2px 0 rgba(0, 0, 0, 0.24);
+}
+
+.menu_lista {
+  display: flex;
+}
+
+.menu_link {
+  padding: 1.5rem 2.5rem;
+  font-weight: 700;
+  text-transform: uppercase;
+}
+
+/* Pasek pod elementem */
+.text-underlined {
+  position: relative;
+  overflow: hidden;
+  will-change: color;
+  transition: color 0.25s ease-out;
+}
+
+/* Animowany pasek */
+.text-underlined::before,
+.text-underlined::after {
+  content: "";
+  width: 0;
+  height: 3px;
+  background-color: currentColor;
+  /* ^ nie usuwać - z jakiegoś powodu bez tego nie działa */
+
+  will-change: width;
+  transition: width 0.1s ease-out;
+
+  position: absolute;
+  bottom: 0;
+}
+
+/* Wygładzenie animacji */
+.text-underlined::before {
+  left: 50%;
+  transform: translateX(-50%);
+}
+
+.text-underlined::after {
+  right: 50%;
+  transform: translateX(50%);
+}
+
+.text-underlined:hover::before,
+.text-underlined:hover::after {
+  width: 100%;
+  transition-duration: 0.2s;
+}
+
+.ustawienia {
+  --menuLinkUnactiveColor: #241c69;
+}
+
+input[type="text"],
+select {
+  width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+}
+
+input[type="submit"] {
+  width: 100%;
+  background-color: #4caf50;
+  color: white;
+  padding: 14px 20px;
+  margin: 8px 0;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+input[type="submit"]:hover {
+  background-color: #45a049;
+}
+
+.form {
+  width: 60%;
+  margin: 0 auto;
+  margin-top: 50px;
+}
+
+.svg-loader {
+  display: flex;
+  position: relative;
+  align-content: space-around;
+  justify-content: center;
+  margin: 100px;
+  transition: all 0.5s ease-in-out;
+}
+
+.loader-svg {
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 0;
+  bottom: 0;
+  fill: none;
+  stroke-width: 5px;
+  stroke-linecap: round;
+  stroke: rgb(64, 0, 148);
+}
+
+.loader-svg.bg {
+  stroke-width: 8px;
+  stroke: rgb(207, 205, 245);
+}
+
+.animate {
+  stroke-dasharray: 242.6;
+  animation: fill-animation 1s cubic-bezier(1, 1, 1, 1) 0s infinite;
+}
+
+@keyframes fill-animation {
+  0% {
+    stroke-dasharray: 40 242.6;
+    stroke-dashoffset: 0;
+  }
+
+  50% {
+    stroke-dasharray: 141.3;
+    stroke-dashoffset: 141.3;
+  }
+
+  100% {
+    stroke-dasharray: 40 242.6;
+    stroke-dashoffset: 282.6;
+  }
+}
+
+.top-g {
+  text-align: center;
+}
+
+#fill {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  z-index: -2;
+  background: url("https://hypixel.net/attachments/2020-12-09_15-40-51-png.2177009/");
+}
+
+.overlay {
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 100%;
+  width: 100%;
+  background-color: #212529;
+  opacity: 0.2;
+  z-index: -1;
+}

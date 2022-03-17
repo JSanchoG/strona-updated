@@ -1,0 +1,178 @@
+#h3 {
+  margin: 0;
+  font-family: "Open Sans", sans-serif;
+  font-size: 1.325rem;
+  font-weight: 600;
+  line-height: 36px;
+  margin-right: 10px;
+  display: block;
+  color: #32325d;
+  transition: visibility 1s;
+  float: right;
+}
+
+img {
+  position: absolute;
+  border-radius: 4px;
+}
+
+body {
+  overflow-x: hidden;
+}
+
+.col-left {
+  height: 100%;
+  width: 100%;
+}
+
+.cards {
+  margin: 20px;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.playerElem-body {
+  padding: 20px;
+  margin: 5px 15px 15px 5px;
+  border-radius: 1rem;
+  background-color: #f7fafc;
+  display: inline-block;
+  flex-grow: 1;
+  max-width: 300px;
+}
+
+.playerElem-body h3 {
+  margin-left: 36px;
+}
+
+.footer-stats {
+  color: #999999;
+  font-size: 14px;
+  line-height: 22px;
+  font-family: "Roboto", "Helvetica", "Arial", sans-serif;
+}
+
+p {
+  margin-top: 0;
+  margin-bottom: 0;
+  /* margin-bottom: 1rem; */
+}
+
+.elem-footer {
+  border-top: 1px solid rgb(220, 220, 220);
+  margin-top: 45px;
+  text-align: center;
+}
+
+.gRank {
+  float: none;
+  text-align: center;
+  color: #999999;
+  font-size: 16px;
+  margin-top: 5px;
+}
+
+#gNameTag,
+input {
+  text-align: center;
+  float: none;
+  margin: 10px;
+}
+
+input {
+  background: no-repeat center bottom;
+  background-size: 0 100%, 100% 100%;
+  border: 0;
+  height: 36px;
+  border-radius: 0;
+  font-size: 14px;
+  display: block;
+  margin: auto;
+  border-bottom: 1px solid #999999;
+}
+
+input:focus {
+  outline: none;
+}
+
+.rainbow {
+  animation: rainbow 5s linear infinite;
+}
+
+@keyframes rainbow {
+  0%,
+  100% {
+    -webkit-box-shadow: 5px 5px 15px 5px #ff8080, -9px 5px 15px 5px #ffe488,
+      -7px -5px 15px 5px #8cff85, 12px -5px 15px 5px #80c7ff,
+      12px 10px 15px 7px #e488ff, -10px 10px 15px 7px #ff616b,
+      -10px -7px 27px 1px #8e5cff, 5px 5px 15px 5px rgba(0, 0, 0, 0);
+    box-shadow: 5px 5px 15px 5px #ff8080, -9px 5px 15px 5px #ffe488,
+      -7px -5px 15px 5px #8cff85, 12px -5px 15px 5px #80c7ff,
+      12px 10px 15px 7px #e488ff, -10px 10px 15px 7px #ff616b,
+      -10px -7px 27px 1px #8e5cff, 5px 5px 15px 5px rgba(0, 0, 0, 0);
+  }
+  14.25% {
+    -webkit-box-shadow: 5px 5px 15px 5px #8e5cff, -9px 5px 15px 5px #ff8080,
+      -7px -5px 15px 5px #ffe488, 12px -5px 15px 5px #8cff85,
+      12px 10px 15px 7px #80c7ff, -10px 10px 15px 7px #e488ff,
+      -10px -7px 27px 1px #ff616b, 5px 5px 15px 5px rgba(0, 0, 0, 0);
+    box-shadow: 5px 5px 15px 5px #8e5cff, -9px 5px 15px 5px #ff8080,
+      -7px -5px 15px 5px #ffe488, 12px -5px 15px 5px #8cff85,
+      12px 10px 15px 7px #80c7ff, -10px 10px 15px 7px #e488ff,
+      -10px -7px 27px 1px #ff616b, 5px 5px 15px 5px rgba(0, 0, 0, 0);
+  }
+  28.5% {
+    -webkit-box-shadow: 5px 5px 15px 5px #ff616b, -9px 5px 15px 5px #8e5cff,
+      -7px -5px 15px 5px #ff8080, 12px -5px 15px 5px #ffe488,
+      12px 10px 15px 7px #8cff85, -10px 10px 15px 7px #80c7ff,
+      -10px -7px 27px 1px #e488ff, 5px 5px 15px 5px rgba(0, 0, 0, 0);
+    box-shadow: 5px 5px 15px 5px #ff616b, -9px 5px 15px 5px #8e5cff,
+      -7px -5px 15px 5px #ff8080, 12px -5px 15px 5px #ffe488,
+      12px 10px 15px 7px #8cff85, -10px 10px 15px 7px #80c7ff,
+      -10px -7px 27px 1px #e488ff, 5px 5px 15px 5px rgba(0, 0, 0, 0);
+  }
+  42.75% {
+    -webkit-box-shadow: 5px 5px 15px 5px #e488ff, -9px 5px 15px 5px #ff616b,
+      -7px -5px 15px 5px #8e5cff, 12px -5px 15px 5px #ff8080,
+      12px 10px 15px 7px #ffe488, -10px 10px 15px 7px #8cff85,
+      -10px -7px 27px 1px #80c7ff, 5px 5px 15px 5px rgba(0, 0, 0, 0);
+    box-shadow: 5px 5px 15px 5px #e488ff, -9px 5px 15px 5px #ff616b,
+      -7px -5px 15px 5px #8e5cff, 12px -5px 15px 5px #ff8080,
+      12px 10px 15px 7px #ffe488, -10px 10px 15px 7px #8cff85,
+      -10px -7px 27px 1px #80c7ff, 5px 5px 15px 5px rgba(0, 0, 0, 0);
+  }
+  57% {
+    -webkit-box-shadow: 5px 5px 15px 5px #80c7ff, -9px 5px 15px 5px #e488ff,
+      -7px -5px 15px 5px #ff616b, 12px -5px 15px 5px #8e5cff,
+      12px 10px 15px 7px #ff8080, -10px 10px 15px 7px #ffe488,
+      -10px -7px 27px 1px #8cff85, 5px 5px 15px 5px rgba(0, 0, 0, 0);
+    box-shadow: 5px 5px 15px 5px #80c7ff, -9px 5px 15px 5px #e488ff,
+      -7px -5px 15px 5px #ff616b, 12px -5px 15px 5px #8e5cff,
+      12px 10px 15px 7px #ff8080, -10px 10px 15px 7px #ffe488,
+      -10px -7px 27px 1px #8cff85, 5px 5px 15px 5px rgba(0, 0, 0, 0);
+  }
+  71.25% {
+    -webkit-box-shadow: 5px 5px 15px 5px #8cff85, -9px 5px 15px 5px #80c7ff,
+      -7px -5px 15px 5px #e488ff, 12px -5px 15px 5px #ff616b,
+      12px 10px 15px 7px #8e5cff, -10px 10px 15px 7px #ff8080,
+      -10px -7px 27px 1px #ffe488, 5px 5px 15px 5px rgba(0, 0, 0, 0);
+    box-shadow: 5px 5px 15px 5px #8cff85, -9px 5px 15px 5px #80c7ff,
+      -7px -5px 15px 5px #e488ff, 12px -5px 15px 5px #ff616b,
+      12px 10px 15px 7px #8e5cff, -10px 10px 15px 7px #ff8080,
+      -10px -7px 27px 1px #ffe488, 5px 5px 15px 5px rgba(0, 0, 0, 0);
+  }
+  85.5% {
+    -webkit-box-shadow: 5px 5px 15px 5px #ffe488, -9px 5px 15px 5px #8cff85,
+      -7px -5px 15px 5px #80c7ff, 12px -5px 15px 5px #e488ff,
+      12px 10px 15px 7px #ff616b, -10px 10px 15px 7px #8e5cff,
+      -10px -7px 27px 1px #ff8080, 5px 5px 15px 5px rgba(0, 0, 0, 0);
+    box-shadow: 5px 5px 15px 5px #ffe488, -9px 5px 15px 5px #8cff85,
+      -7px -5px 15px 5px #80c7ff, 12px -5px 15px 5px #e488ff,
+      12px 10px 15px 7px #ff616b, -10px 10px 15px 7px #8e5cff,
+      -10px -7px 27px 1px #ff8080, 5px 5px 15px 5px rgba(0, 0, 0, 0);
+  }
+}
+
+#onE {
+  transition: all 0.7s ease-in-out;
+}

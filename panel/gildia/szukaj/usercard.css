@@ -1,0 +1,179 @@
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Montserrat&display=swap");
+
+body {
+  overflow: hidden;
+}
+
+#user-card {
+  width: 400px;
+  height: 500px;
+  background-color: salmon;
+  margin: 0 auto;
+  margin-top: 75px;
+  border-radius: 1rem;
+}
+
+#user-image {
+  transform: translateY(-20%);
+  width: 64px;
+  height: 64px;
+  margin: 0 auto;
+  background-image: url("https://minotar.net/helm/Steve/64.png");
+  border-radius: 0.3rem;
+  border-radius: 7px;
+  transition: box-shadow 0.2s ease-in-out;
+}
+
+#user-image:hover {
+  outline: none;
+  border-color: #9ecaed;
+  box-shadow: 0 0 10px #9ecaed;
+}
+
+.columns {
+  width: 100%;
+  display: flex;
+}
+
+.col-left {
+  width: 50%;
+  height: 200px;
+  margin: 50px 50px 0px 50px;
+}
+
+.col-right {
+  width: 50%;
+  height: 200px;
+  margin: 50px 5vw 50px 50px;
+}
+
+.card-header {
+  border-radius: 1rem 1rem 0 0;
+  height: 50px;
+  padding: 20px;
+}
+
+.wbg {
+  background-color: #ffffff;
+}
+
+.card-body {
+  padding: 20px;
+  border-radius: 0 0 1rem 1rem;
+  background-color: #f7fafc;
+}
+
+.card-right {
+  background-color: #f7fafc;
+  padding: 20px;
+  border-radius: 1rem 1rem 1rem 1rem;
+  text-align: center;
+}
+
+.card-header h3 {
+  margin: 0;
+  font-family: "Open Sans", sans-serif;
+  font-size: 1.325rem;
+  font-weight: 600;
+  line-height: 45px;
+  margin-left: 20px;
+  color: #32325d;
+  transition: visibility 1s;
+}
+
+.catacombs-image {
+  background-image: url("../../../files/img/catacombs-36.png");
+  background-repeat: no-repeat;
+  display: inline-block;
+  line-height: 36px;
+}
+
+.berserk-image {
+  background-image: url("../../../files/img/items.webp");
+  background-position: -2688px -128px;
+  background-repeat: no-repeat;
+  display: inline-block;
+}
+
+.skill-text {
+  display: inline;
+  margin: 0px 0px 0px 40px;
+  /* line-height: 36px; */
+  font-size: 1.1rem;
+  width: 100%;
+  font-family: "Montserrat", sans-serif;
+}
+
+.level {
+  opacity: 60%;
+  font-size: 1.1em;
+  font-family: "Montserrat", sans-serif;
+}
+
+#classes .skill-text {
+  margin: 0;
+  display: inline;
+  width: 20%;
+}
+
+.title-header h1 {
+  text-align: center;
+
+  text-transform: uppercase;
+  font-size: 26px;
+  letter-spacing: 1px;
+
+  display: grid;
+  grid-template-columns: 1fr auto 1fr;
+  grid-template-rows: 16px 0;
+  grid-gap: 22px;
+}
+
+.title-header h1:after,
+.title-header h1:before {
+  content: " ";
+  display: block;
+  border-bottom: 2px solid #ccc;
+  background-color: #f8f8f8;
+}
+
+.catacombs:after {
+  position: sticky;
+  width: 60px;
+  height: 2px;
+  content: "";
+  background-color: #c50000;
+}
+
+.dungeon-class::before {
+  background-color: #c50000;
+  content: "";
+  height: 7px;
+  width: 7px;
+  display: inline-block;
+  border-radius: 50%;
+  transform: translateY(-2px);
+}
+
+.box-progress {
+  display: block;
+  height: 8px;
+  border-radius: 6px;
+}
+
+.box-progress-bar {
+  width: 50%;
+  height: 8px;
+  border-radius: 6px;
+  overflow: hidden;
+  background-color: #c3c3c3;
+  margin: 4px 0px;
+}
+
+#right-mask {
+  background-color: #f2f2f2;
+  height: 100%;
+  width: 100%;
+  position: absolute;
+}

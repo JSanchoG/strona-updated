@@ -1,0 +1,3061 @@
+{
+  "profile_id": "04c375d3c80444a3b75ff0be2fb2c232",
+  "cute_name": "Pineapple",
+  "dungeons": {
+    "catacombs": {
+      "id": "dungeon_catacombs",
+      "visited": true,
+      "level": {
+        "xp": 86075193.62056267,
+        "level": 42,
+        "maxLevel": 50,
+        "xpCurrent": 515553,
+        "xpForNext": 24000000,
+        "progress": 0.021481375,
+        "levelCap": 50,
+        "uncappedLevel": 42,
+        "levelWithProgress": 42.021481375,
+        "unlockableLevelWithProgress": 42.021481375
+      },
+      "highest_floor": "floor_7",
+      "floors": {
+        "0": {
+          "name": "entrance",
+          "icon_texture": "35c3024f4d9d12ddf5959b6aea3c810f5ee85176aab1b2e7f462aa1c194c342b",
+          "stats": {
+            "times_played": 40,
+            "tier_completions": 33,
+            "fastest_time": 79614,
+            "best_score": 203,
+            "mobs_killed": 774,
+            "most_mobs_killed": 212,
+            "most_healing": 1414.8458251953125,
+            "watcher_kills": 33,
+            "milestone_completions": 2
+          },
+          "best_runs": [
+            {
+              "timestamp": 1610323541204,
+              "score_exploration": 46,
+              "score_speed": 70,
+              "score_skill": 62,
+              "score_bonus": 0,
+              "dungeon_class": "berserk",
+              "teammates": [
+                "c5b006a7-0a11-4781-8bdb-0b0b5260e92b",
+                "cad79987-7ce6-4245-9861-0eddc76a9ec6",
+                "da224abb-1b04-4976-b9af-a243adf79094"
+              ],
+              "elapsed_time": 177270,
+              "damage_dealt": 44354.992750051875,
+              "deaths": 1,
+              "mobs_killed": 3,
+              "secrets_found": 1,
+              "damage_mitigated": 6241.599403247833
+            },
+            {
+              "timestamp": 1610411517686,
+              "score_exploration": 35,
+              "score_speed": 70,
+              "score_skill": 43,
+              "score_bonus": 7,
+              "dungeon_class": "berserk",
+              "teammates": [
+                "30ff4d93-a42b-4eda-82ae-903eb1943d0c",
+                "b7308ce9-7ba7-40ff-aed0-3475923b3a88",
+                "f4a6e979-ceed-4d0a-8a89-06bd43115a56",
+                "cf7919c2-23c0-48e1-8608-ae0c194b97e6"
+              ],
+              "elapsed_time": 168338,
+              "damage_dealt": 248052.55340773927,
+              "deaths": 1,
+              "mobs_killed": 9,
+              "secrets_found": 0,
+              "damage_mitigated": 15285.215012645722
+            },
+            {
+              "timestamp": 1610412104744,
+              "score_exploration": 42,
+              "score_speed": 70,
+              "score_skill": 46,
+              "score_bonus": 11,
+              "dungeon_class": "berserk",
+              "teammates": [
+                "ce35bb44-16b9-4154-95e2-2911e300db61",
+                "acd5e071-a66c-4cc5-9649-9de892ce4a81",
+                "895f7522-310e-41b6-8782-16ac05a8f49e",
+                "317e3c74-f455-464f-b6dc-d961d839f4ab"
+              ],
+              "elapsed_time": 500445,
+              "damage_dealt": 728641.8263954403,
+              "deaths": 4,
+              "mobs_killed": 86,
+              "secrets_found": 0,
+              "damage_mitigated": 63863.14812651385,
+              "ally_healing": 1203.9315795898438
+            },
+            {
+              "timestamp": 1610414888487,
+              "score_exploration": 35,
+              "score_speed": 70,
+              "score_skill": 39,
+              "score_bonus": 8,
+              "dungeon_class": "berserk",
+              "teammates": [
+                "8a093923-ba15-4fdd-845d-5e451fa6d100",
+                "4523d557-6227-423b-8bf7-98347f5d437c",
+                "cddf35b7-ff7e-430f-aec9-74fb2ad58ea8"
+              ],
+              "elapsed_time": 364984,
+              "damage_dealt": 604657.8768063936,
+              "deaths": 6,
+              "mobs_killed": 18,
+              "secrets_found": 0,
+              "damage_mitigated": 71051.50932225585,
+              "ally_healing": 600
+            },
+            {
+              "timestamp": 1610455252133,
+              "score_exploration": 41,
+              "score_speed": 70,
+              "score_skill": 36,
+              "score_bonus": 1,
+              "dungeon_class": "berserk",
+              "teammates": [
+                "c1bf1ccf-e39b-482d-97e2-33c3f9872a30",
+                "f3e092f7-a087-4faa-9e47-025e5c5eb54d",
+                "e73303e8-b0b7-445e-b21d-0ea5675280d9",
+                "593d61d3-f874-4b81-b30b-390d0a16751c"
+              ],
+              "elapsed_time": 458052,
+              "damage_dealt": 274792.5777769348,
+              "deaths": 6,
+              "mobs_killed": 5,
+              "secrets_found": 0,
+              "damage_mitigated": 60452.08357477686,
+              "ally_healing": 180
+            },
+            {
+              "timestamp": 1610581492874,
+              "score_exploration": 46,
+              "score_speed": 70,
+              "score_skill": 52,
+              "score_bonus": 0,
+              "dungeon_class": "berserk",
+              "teammates": [
+                "9be69d83-4762-456a-ab27-1194774a1dbb",
+                "b5371da3-02a3-4790-98e9-bb5ca55e376f",
+                "1e9a9d08-8d2c-49d9-b856-8ebbb53093b7",
+                "087ff351-60d0-4b2f-a8dd-8bf0b8c5c549"
+              ],
+              "elapsed_time": 248344,
+              "damage_dealt": 401416.3924302924,
+              "deaths": 2,
+              "mobs_killed": 27,
+              "secrets_found": 1,
+              "damage_mitigated": 33196.936677240185,
+              "ally_healing": 180
+            },
+            {
+              "timestamp": 1610668722490,
+              "score_exploration": 27,
+              "score_speed": 70,
+              "score_skill": 35,
+              "score_bonus": 0,
+              "dungeon_class": "berserk",
+              "teammates": [
+                "974fb76f-b57d-4c2d-b581-22c14d9576a7",
+                "091ea480-69f9-4179-8354-8614d5f94ea1",
+                "06f474c6-daea-49a8-a1a2-2aef55e95ead"
+              ],
+              "elapsed_time": 201224,
+              "damage_dealt": 186207.30584694134,
+              "deaths": 3,
+              "mobs_killed": 9,
+              "secrets_found": 0,
+              "damage_mitigated": 32147.99914351284,
+              "ally_healing": 463.38720703125
+            },
+            {
+              "timestamp": 1610669130322,
+              "score_exploration": 27,
+              "score_speed": 70,
+              "score_skill": 39,
+              "score_bonus": 0,
+              "dungeon_class": "berserk",
+              "teammates": [
+                "eedffd7e-4833-4bb6-96b1-2546fcf809c7",
+                "e609094e-63cd-44c6-80d6-12648a12d23f",
+                "83509c34-284a-423a-9e29-81887c6b0a1a",
+                "03a323ea-70b3-4181-8828-9f875de36974"
+              ],
+              "elapsed_time": 226145,
+              "damage_dealt": 84411.64442078523,
+              "deaths": 0,
+              "mobs_killed": 5,
+              "secrets_found": 0,
+              "damage_mitigated": 10921.665291185378,
+              "ally_healing": 142.7584228515625
+            },
+            {
+              "timestamp": 1627762753127,
+              "score_exploration": 30,
+              "score_speed": 70,
+              "score_skill": 36,
+              "score_bonus": 7,
+              "dungeon_class": "berserk",
+              "teammates": [
+                "2ae858e0-28ab-4140-8eff-a826b2fdbe54",
+                "c776d67b-f1d3-4ed1-9510-a12ff3c13348",
+                "8dfe6088-0709-46ce-b735-119a67898b0c",
+                "d6bd0151-f312-4e49-9c8f-e729c7102d54"
+              ],
+              "elapsed_time": 382296,
+              "damage_dealt": 246696.70610972957,
+              "deaths": 3,
+              "mobs_killed": 13,
+              "secrets_found": 1,
+              "damage_mitigated": 38819.00939629495,
+              "ally_healing": 1414.8458251953125
+            },
+            {
+              "timestamp": 1641309434960,
+              "score_exploration": 67,
+              "score_speed": 70,
+              "score_skill": 66,
+              "score_bonus": 0,
+              "dungeon_class": "archer",
+              "teammates": [
+                "92dbeb03-0beb-4eb5-b8e4-97679a33145d",
+                "caf32c00-3aa9-4c81-b6ac-064dc10ed152",
+                "3e8a14ef-4b98-45b9-8b67-3e68152e78e9",
+                "11721e38-ce21-4568-b726-3cf7b0a7160a"
+              ],
+              "elapsed_time": 79614,
+              "damage_dealt": 433232.48174640245,
+              "deaths": 0,
+              "mobs_killed": 9,
+              "secrets_found": 1,
+              "damage_mitigated": 359.09999999999997
+            }
+          ],
+          "most_damage": {
+            "class": "berserk",
+            "value": 2893126.251976675
+          }
+        },
+        "1": {
+          "name": "floor_1",
+          "icon_texture": "726f384acdfbb7218e96efac630e9ae1a14fd2f820ab660cc68322a59b165a12",
+          "stats": {
+            "times_played": 129,
+            "tier_completions": 86,
+            "fastest_time": 111837,
+            "best_score": 303,
+            "mobs_killed": 3785,
+            "most_mobs_killed": 201,
+            "most_healing": 3878.1289990234363,
+            "watcher_kills": 115,
+            "milestone_completions": 73,
+            "fastest_time_s": 202779,
+            "fastest_time_s_plus": 139131
+          },
+          "best_runs": [
+            {
+              "timestamp": 1628779605836,
+              "score_exploration": 68,
+              "score_speed": 100,
+              "score_skill": 94,
+              "score_bonus": 5,
+              "dungeon_class": "berserk",
+              "teammates": [
+                "14693e79-f9d7-4604-ac38-d21d1d240b4f",
+                "193d08e5-9e37-45f3-898f-f3cec2d32adf",
+                "40bb0d61-04ac-431a-9ff6-b833be94a752"
+              ],
+              "elapsed_time": 692707,
+              "damage_dealt": 4976510.66953762,
+              "deaths": 0,
+              "mobs_killed": 138,
+              "secrets_found": 2,
+              "damage_mitigated": 156039.78848131277,
+              "ally_healing": 2386.1424480607
+            },
+            {
+              "timestamp": 1628781410168,
+              "score_exploration": 66,
+              "score_speed": 100,
+              "score_skill": 90,
+              "score_bonus": 0,
+              "dungeon_class": "berserk",
+              "teammates": [
+                "ee24ec02-1657-49db-ac90-08b2b7317e40",
+                "db6023eb-b833-4e96-971b-941cee8be110",
+                "81c6a3d3-a17a-4f8b-8612-39d376b78eb7",
+                "be899cca-f6e8-4f5b-a824-5bf622222fa9"
+              ],
+              "elapsed_time": 371122,
+              "damage_dealt": 2268008.266482657,
+              "deaths": 1,
+              "mobs_killed": 62,
+              "secrets_found": 0,
+              "damage_mitigated": 157886.696210077,
+              "ally_healing": 1665.4226961594288
+            },
+            {
+              "timestamp": 1628782015325,
+              "score_exploration": 75,
+              "score_speed": 100,
+              "score_skill": 98,
+              "score_bonus": 2,
+              "dungeon_class": "berserk",
+              "teammates": [
+                "7136a7f9-0dcd-4682-970f-9856b7a342c6",
+                "bc7f4350-f123-4f79-815e-302984e4e304",
+                "fe370a70-7ca4-4f52-8e95-d88908679a3c",
+                "75437bd4-dd61-46c5-b940-5ee7f5e2e596"
+              ],
+              "elapsed_time": 268161,
+              "damage_dealt": 2444967.58198249,
+              "deaths": 0,
+              "mobs_killed": 65,
+              "secrets_found": 0,
+              "damage_mitigated": 103570.95000000003,
+              "ally_healing": 1089.288342885785
+            },
+            {
+              "timestamp": 1633513582243,
+              "score_exploration": 61,
+              "score_speed": 100,
+              "score_skill": 86,
+              "score_bonus": 1,
+              "dungeon_class": "berserk",
+              "teammates": [
+                "22acebe4-9793-4d6c-8af4-0ef717dcb0cc",
+                "3937c41b-3b80-4830-9be1-c18a0ae3d858"
+              ],
+              "elapsed_time": 136941,
+              "damage_dealt": 273,
+              "deaths": 0,
+              "mobs_killed": 0,
+              "secrets_found": 0,
+              "damage_mitigated": 8686.666666666668
+            },
+            {
+              "timestamp": 1633513800774,
+              "score_exploration": 70,
+              "score_speed": 100,
+              "score_skill": 72,
+              "score_bonus": 0,
+              "dungeon_class": "berserk",
+              "teammates": [
+                "22acebe4-9793-4d6c-8af4-0ef717dcb0cc",
+                "3937c41b-3b80-4830-9be1-c18a0ae3d858"
+              ],
+              "elapsed_time": 143686,
+              "damage_dealt": 0,
+              "deaths": 0,
+              "mobs_killed": 0,
+              "secrets_found": 0
+            },
+            {
+              "timestamp": 1633513976810,
+              "score_exploration": 62,
+              "score_speed": 100,
+              "score_skill": 86,
+              "score_bonus": 0,
+              "dungeon_class": "berserk",
+              "teammates": [
+                "22acebe4-9793-4d6c-8af4-0ef717dcb0cc",
+                "3937c41b-3b80-4830-9be1-c18a0ae3d858"
+              ],
+              "elapsed_time": 135917,
+              "damage_dealt": 497234.121694293,
+              "deaths": 0,
+              "mobs_killed": 12,
+              "secrets_found": 0,
+              "damage_mitigated": 9211.2
+            },
+            {
+              "timestamp": 1633514156710,
+              "score_exploration": 60,
+              "score_speed": 100,
+              "score_skill": 100,
+              "score_bonus": 0,
+              "dungeon_class": "berserk",
+              "teammates": [
+                "22acebe4-9793-4d6c-8af4-0ef717dcb0cc",
+                "3937c41b-3b80-4830-9be1-c18a0ae3d858"
+              ],
+              "elapsed_time": 140931,
+              "damage_dealt": 707500.0118750001,
+              "deaths": 0,
+              "mobs_killed": 23,
+              "secrets_found": 0,
+              "damage_mitigated": 10044.8
+            },
+            {
+              "timestamp": 1633519048074,
+              "score_exploration": 67,
+              "score_speed": 100,
+              "score_skill": 98,
+              "score_bonus": 0,
+              "dungeon_class": "berserk",
+              "teammates": [
+                "1bca1db2-6094-4035-bda4-6c283d32f202",
+                "52fdbf8b-e8b4-41ee-a4fd-66bb15445898",
+                "18a2e980-1ca9-4035-b74b-d90366271c48",
+                "b0a81481-1512-4501-ba88-9ef77ae2f8b4"
+              ],
+              "elapsed_time": 232275,
+              "damage_dealt": 1605283.5260003589,
+              "deaths": 0,
+              "mobs_killed": 44,
+              "secrets_found": 0,
+              "damage_mitigated": 46151.363636363625,
+              "ally_healing": 237
+            },
+            {
+              "timestamp": 1641309251213,
+              "score_exploration": 100,
+              "score_speed": 100,
+              "score_skill": 98,
+              "score_bonus": 5,
+              "dungeon_class": "archer",
+              "teammates": [
+                "92dbeb03-0beb-4eb5-b8e4-97679a33145d",
+                "caf32c00-3aa9-4c81-b6ac-064dc10ed152",
+                "3e8a14ef-4b98-45b9-8b67-3e68152e78e9",
+                "11721e38-ce21-4568-b726-3cf7b0a7160a"
+              ],
+              "elapsed_time": 139131,
+              "damage_dealt": 1102465.3230677568,
+              "deaths": 1,
+              "mobs_killed": 35,
+              "secrets_found": 4,
+              "damage_mitigated": 18794
+            },
+            {
+              "timestamp": 1641478101124,
+              "score_exploration": 86,
+              "score_speed": 100,
+              "score_skill": 88,
+              "score_bonus": 0,
+              "dungeon_class": "archer",
+              "teammates": [
+                "35e762f2-6a6f-48ae-b1ce-12f7af03090d",
+                "50ac6ce0-03d8-457a-9846-669806d7e392",
+                "9922c951-d3ba-4abc-984e-f1ba9d1bb014",
+                "b0165096-544b-4cd7-8234-6de1d51a779d"
+              ],
+              "elapsed_time": 202779,
+              "damage_dealt": 1073054.159765625,
+              "deaths": 0,
+              "mobs_killed": 33,
+              "secrets_found": 0,
+              "damage_mitigated": 10239.912499230513
+            }
+          ],
+          "most_damage": {
+            "class": "berserk",
+            "value": 7450086.645347897
+          }
+        },
+        "2": {
+          "name": "floor_2",
+          "icon_texture": "ebaf2ae74553a64587840d6e70fb27d2c0ae2f8bdfacbe56654c8db4001cdc98",
+          "stats": {
+            "times_played": 36,
+            "tier_completions": 18,
+            "fastest_time": 174178,
+            "best_score": 302,
+            "mobs_killed": 1486,
+            "most_mobs_killed": 222,
+            "most_healing": 2674.8019999999988,
+            "watcher_kills": 32,
+            "milestone_completions": 16,
+            "fastest_time_s_plus": 187895
+          },
+          "best_runs": [
+            {
+              "timestamp": 1628687254252,
+              "score_exploration": 63,
+              "score_speed": 100,
+              "score_skill": 77,
+              "score_bonus": 3,
+              "dungeon_class": "berserk",
+              "teammates": [
+                "9c92ecf2-192e-41c3-8096-f6fdcd1d8c7f",
+                "0b151a7c-58c4-472d-a3f0-ac2c27f2e272",
+                "59a3f580-cc9e-437b-b605-92773abfd10e",
+                "616bd48d-e351-4a11-aa36-95e771110f52"
+              ],
+              "elapsed_time": 265808,
+              "damage_dealt": 1432430.4733551298,
+              "deaths": 3,
+              "mobs_killed": 17,
+              "secrets_found": 0,
+              "damage_mitigated": 72327.56666666667,
+              "ally_healing": 1253.5736968987612
+            },
+            {
+              "timestamp": 1630838941642,
+              "score_exploration": 62,
+              "score_speed": 100,
+              "score_skill": 88,
+              "score_bonus": 0,
+              "dungeon_class": "berserk",
+              "teammates": [
+                "1e36ee21-3d48-4d08-8896-13d824e897db",
+                "bc4a1410-e561-4ce7-b7fb-618a8491adce",
+                "5e801e8d-8f68-45ad-90d0-ff275cad855c"
+              ],
+              "elapsed_time": 466143,
+              "damage_dealt": 14419661.72883011,
+              "deaths": 0,
+              "mobs_killed": 193,
+              "secrets_found": 0,
+              "damage_mitigated": 298310.51342488616,
+              "ally_healing": 1449.6947120225693
+            },
+            {
+              "timestamp": 1632837420905,
+              "score_exploration": 45,
+              "score_speed": 100,
+              "score_skill": 64,
+              "score_bonus": 0,
+              "dungeon_class": "berserk",
+              "teammates": [
+                "2886c05a-ca59-48d2-9ba3-56f3d095497d"
+              ],
+              "elapsed_time": 271518,
+              "damage_dealt": 3973219.6433464177,
+              "deaths": 0,
+              "mobs_killed": 49,
+              "secrets_found": 0,
+              "damage_mitigated": 242027.83571325347
+            },
+            {
+              "timestamp": 1632837785485,
+              "score_exploration": 47,
+              "score_speed": 100,
+              "score_skill": 58,
+              "score_bonus": 4,
+              "dungeon_class": "berserk",
+              "teammates": [
+                "2886c05a-ca59-48d2-9ba3-56f3d095497d"
+              ],
+              "elapsed_time": 301210,
+              "damage_dealt": 8474479.935721729,
+              "deaths": 0,
+              "mobs_killed": 90,
+              "secrets_found": 0,
+              "damage_mitigated": 256088.7026221818
+            },
+            {
+              "timestamp": 1632838216663,
+              "score_exploration": 78,
+              "score_speed": 100,
+              "score_skill": 86,
+              "score_bonus": 4,
+              "dungeon_class": "berserk",
+              "teammates": [
+                "2886c05a-ca59-48d2-9ba3-56f3d095497d"
+              ],
+              "elapsed_time": 373408,
+              "damage_dealt": 12606924.387430005,
+              "deaths": 0,
+              "mobs_killed": 117,
+              "secrets_found": 3,
+              "damage_mitigated": 230565.15000000002
+            },
+            {
+              "timestamp": 1632838470399,
+              "score_exploration": 47,
+              "score_speed": 100,
+              "score_skill": 54,
+              "score_bonus": 4,
+              "dungeon_class": "berserk",
+              "teammates": [
+                "2886c05a-ca59-48d2-9ba3-56f3d095497d"
+              ],
+              "elapsed_time": 189458,
+              "damage_dealt": 5244037.9432907,
+              "deaths": 0,
+              "mobs_killed": 59,
+              "secrets_found": 0,
+              "damage_mitigated": 164076.2799999714
+            },
+            {
+              "timestamp": 1633264738876,
+              "score_exploration": 51,
+              "score_speed": 100,
+              "score_skill": 63,
+              "score_bonus": 2,
+              "dungeon_class": "berserk",
+              "teammates": [
+                "756197a3-0642-42e1-b3e9-71c06135c17b"
+              ],
+              "elapsed_time": 744574,
+              "damage_dealt": 16238807.292488053,
+              "deaths": 0,
+              "mobs_killed": 222,
+              "secrets_found": 7,
+              "damage_mitigated": 474680.3215242433
+            },
+            {
+              "timestamp": 1636662055180,
+              "score_exploration": 55,
+              "score_speed": 100,
+              "score_skill": 74,
+              "score_bonus": 1,
+              "dungeon_class": "archer",
+              "teammates": [
+                "10059779-6b62-47fe-8575-8ec4fcf920f5",
+                "d5376e5a-3a86-4909-9d58-5c572acaf000",
+                "61407bad-e910-4493-bb9f-6517634e94d2",
+                "b2c59be4-2d30-455e-813d-459301104026"
+              ],
+              "elapsed_time": 222693,
+              "damage_dealt": 4429908.0013304,
+              "deaths": 0,
+              "mobs_killed": 57,
+              "secrets_found": 0,
+              "damage_mitigated": 15651.2
+            },
+            {
+              "timestamp": 1638518693850,
+              "score_exploration": 57,
+              "score_speed": 100,
+              "score_skill": 77,
+              "score_bonus": 0,
+              "dungeon_class": "archer",
+              "teammates": [
+                "b83c0bc9-406d-40cb-8511-c4d02928d829",
+                "fc1b267c-e2d6-4843-b848-ce00d8a5c9e4",
+                "6a2e387e-0713-4aca-8154-97160c409c4d",
+                "140d3efb-c540-4572-8e58-3f01b7c7ffa3"
+              ],
+              "elapsed_time": 209598,
+              "damage_dealt": 2962076.8897790466,
+              "deaths": 0,
+              "mobs_killed": 25,
+              "secrets_found": 1,
+              "damage_mitigated": 18625.346666638055
+            },
+            {
+              "timestamp": 1641309025607,
+              "score_exploration": 100,
+              "score_speed": 100,
+              "score_skill": 100,
+              "score_bonus": 2,
+              "dungeon_class": "archer",
+              "teammates": [
+                "92dbeb03-0beb-4eb5-b8e4-97679a33145d",
+                "caf32c00-3aa9-4c81-b6ac-064dc10ed152",
+                "3e8a14ef-4b98-45b9-8b67-3e68152e78e9",
+                "11721e38-ce21-4568-b726-3cf7b0a7160a"
+              ],
+              "elapsed_time": 187895,
+              "damage_dealt": 3003442.738703926,
+              "deaths": 0,
+              "mobs_killed": 31,
+              "secrets_found": 4,
+              "damage_mitigated": 9009.24
+            }
+          ],
+          "most_damage": {
+            "class": "berserk",
+            "value": 16238807.292488053
+          }
+        },
+        "3": {
+          "name": "floor_3",
+          "icon_texture": "5a2f67500a65f3ce79d34ec150de93df8f60ebe52e248f5e1cdb69b0726256f7",
+          "stats": {
+            "times_played": 301,
+            "tier_completions": 65,
+            "fastest_time": 150084,
+            "best_score": 301,
+            "mobs_killed": 4808,
+            "most_mobs_killed": 188,
+            "most_healing": 7522.491542405544,
+            "watcher_kills": 267,
+            "milestone_completions": 65,
+            "fastest_time_s": 180543,
+            "fastest_time_s_plus": 237733
+          },
+          "best_runs": [
+            {
+              "timestamp": 1631712828509,
+              "score_exploration": 49,
+              "score_speed": 100,
+              "score_skill": 64,
+              "score_bonus": 0,
+              "dungeon_class": "berserk",
+              "teammates": [
+                "24323b78-b574-4c40-89a9-716fbb371dbb",
+                "dd28619c-f60e-4e6d-8aed-5e47521f6054",
+                "c158c54f-3481-4dec-88d8-123bcf2aad9d"
+              ],
+              "elapsed_time": 301224,
+              "damage_dealt": 9443925.050693186,
+              "deaths": 0,
+              "mobs_killed": 65,
+              "secrets_found": 0,
+              "damage_mitigated": 114845.6,
+              "ally_healing": 3048.24205021413
+            },
+            {
+              "timestamp": 1631715641377,
+              "score_exploration": 55,
+              "score_speed": 100,
+              "score_skill": 59,
+              "score_bonus": 0,
+              "dungeon_class": "berserk",
+              "teammates": [
+                "e8ee973a-afa6-4db1-bf5a-eb04a45791d1",
+                "b3b394e7-2dce-4ba8-8eab-6ed16b9a8188",
+                "52f2f044-43c4-4e45-a162-4b9861d65269",
+                "23e355ab-7bf6-4d88-b5c3-59b0a86ac75e"
+              ],
+              "elapsed_time": 325977,
+              "damage_dealt": 12912286.688575538,
+              "deaths": 0,
+              "mobs_killed": 71,
+              "secrets_found": 0,
+              "damage_mitigated": 353444.28660635534,
+              "ally_healing": 4111.957117187499
+            },
+            {
+              "timestamp": 1631716094681,
+              "score_exploration": 59,
+              "score_speed": 100,
+              "score_skill": 75,
+              "score_bonus": 4,
+              "dungeon_class": "berserk",
+              "teammates": [
+                "6c40bc3d-1952-40e8-b466-550bb3b546b1",
+                "52f2f044-43c4-4e45-a162-4b9861d65269",
+                "1af37d93-5189-4946-a51a-cf67310aeaba"
+              ],
+              "elapsed_time": 328046,
+              "damage_dealt": 6721060.554339653,
+              "deaths": 0,
+              "mobs_killed": 64,
+              "secrets_found": 1,
+              "damage_mitigated": 422018.1389427977,
+              "ally_healing": 1369.1699999999994
+            },
+            {
+              "timestamp": 1631727983254,
+              "score_exploration": 62,
+              "score_speed": 100,
+              "score_skill": 62,
+              "score_bonus": 2,
+              "dungeon_class": "berserk",
+              "teammates": [
+                "23d114f6-8a60-4524-b5e7-e4ce451e87c9",
+                "4ccbeaa1-b8c0-4ac0-9ca6-e82f155a0140",
+                "47f91eb6-aa33-431b-83b4-8bb97e660996",
+                "eeae5e65-f3f9-46c1-8f0a-a3eff226d92c"
+              ],
+              "elapsed_time": 337206,
+              "damage_dealt": 12099891.590574214,
+              "deaths": 0,
+              "mobs_killed": 93,
+              "secrets_found": 0,
+              "damage_mitigated": 241619.89665685923,
+              "ally_healing": 1861.0270894250698
+            },
+            {
+              "timestamp": 1631728516880,
+              "score_exploration": 67,
+              "score_speed": 100,
+              "score_skill": 94,
+              "score_bonus": 3,
+              "dungeon_class": "berserk",
+              "teammates": [
+                "23d114f6-8a60-4524-b5e7-e4ce451e87c9",
+                "4d7f7d0c-cd2b-4806-ab79-856f429f76b0",
+                "47f91eb6-aa33-431b-83b4-8bb97e660996",
+                "eeae5e65-f3f9-46c1-8f0a-a3eff226d92c"
+              ],
+              "elapsed_time": 415511,
+              "damage_dealt": 14475005.8247041,
+              "deaths": 0,
+              "mobs_killed": 103,
+              "secrets_found": 0,
+              "damage_mitigated": 359298.7815551113,
+              "ally_healing": 219
+            },
+            {
+              "timestamp": 1632398952375,
+              "score_exploration": 60,
+              "score_speed": 100,
+              "score_skill": 67,
+              "score_bonus": 1,
+              "dungeon_class": "berserk",
+              "teammates": [
+                "eea237b4-a2f6-46d6-b1cf-9e0910806146",
+                "4ebd7ac7-acab-45cb-84bc-fa24b34454f3",
+                "a12f5465-3723-4b73-9762-f85590f7a32a",
+                "2fc352a6-12a0-474b-bff0-71caab8ea1ba"
+              ],
+              "elapsed_time": 294342,
+              "damage_dealt": 12866619.074290406,
+              "deaths": 0,
+              "mobs_killed": 81,
+              "secrets_found": 0,
+              "damage_mitigated": 464111.23952407937,
+              "ally_healing": 1623.2961679687503
+            },
+            {
+              "timestamp": 1632400682780,
+              "score_exploration": 75,
+              "score_speed": 100,
+              "score_skill": 81,
+              "score_bonus": 3,
+              "dungeon_class": "berserk",
+              "teammates": [
+                "c97803f3-540f-4233-94bc-90e96eb6f8b7",
+                "c9638fe3-6570-4fb9-879b-0aa86964f24a",
+                "cca393cb-f90e-44ce-8184-d00bc22539b0"
+              ],
+              "elapsed_time": 362753,
+              "damage_dealt": 13343760.96855778,
+              "deaths": 0,
+              "mobs_killed": 93,
+              "secrets_found": 0,
+              "damage_mitigated": 255328.07598844083
+            },
+            {
+              "timestamp": 1632404692351,
+              "score_exploration": 96,
+              "score_speed": 100,
+              "score_skill": 99,
+              "score_bonus": 5,
+              "dungeon_class": "berserk",
+              "teammates": [
+                "4cfb6804-5ce7-4fc3-9830-09829262c2f0",
+                "7fab61e0-c07b-4ba2-a3f0-9922d2434f9e",
+                "879cdf16-5cca-420a-849c-7a2460770d86",
+                "a7997b82-2681-4261-92db-917444d55ea2"
+              ],
+              "elapsed_time": 237733,
+              "damage_dealt": 8789985.914390678,
+              "deaths": 0,
+              "mobs_killed": 87,
+              "secrets_found": 0,
+              "damage_mitigated": 325386.6944664032,
+              "ally_healing": 837.4638437500003
+            },
+            {
+              "timestamp": 1632405072915,
+              "score_exploration": 98,
+              "score_speed": 100,
+              "score_skill": 98,
+              "score_bonus": 5,
+              "dungeon_class": "berserk",
+              "teammates": [
+                "7fab61e0-c07b-4ba2-a3f0-9922d2434f9e",
+                "879cdf16-5cca-420a-849c-7a2460770d86",
+                "a7997b82-2681-4261-92db-917444d55ea2"
+              ],
+              "elapsed_time": 312123,
+              "damage_dealt": 19647312.25699011,
+              "deaths": 0,
+              "mobs_killed": 124,
+              "secrets_found": 1,
+              "damage_mitigated": 217010.9799999237
+            },
+            {
+              "timestamp": 1641308291780,
+              "score_exploration": 100,
+              "score_speed": 100,
+              "score_skill": 96,
+              "score_bonus": 2,
+              "dungeon_class": "archer",
+              "teammates": [
+                "92dbeb03-0beb-4eb5-b8e4-97679a33145d",
+                "caf32c00-3aa9-4c81-b6ac-064dc10ed152",
+                "3e8a14ef-4b98-45b9-8b67-3e68152e78e9",
+                "11721e38-ce21-4568-b726-3cf7b0a7160a"
+              ],
+              "elapsed_time": 180543,
+              "damage_dealt": 489360,
+              "deaths": 1,
+              "mobs_killed": 4,
+              "secrets_found": 5,
+              "damage_mitigated": 961.875
+            }
+          ],
+          "most_damage": {
+            "class": "berserk",
+            "value": 34495495.92399393
+          }
+        },
+        "4": {
+          "name": "floor_4",
+          "icon_texture": "5720917cda0567442617f2721e88be9d2ffbb0b26a3f4c2fe21655814d4f4476",
+          "stats": {
+            "times_played": 58,
+            "tier_completions": 31,
+            "fastest_time": 268850,
+            "best_score": 302,
+            "mobs_killed": 5545,
+            "most_mobs_killed": 717,
+            "most_healing": 11260.031866634217,
+            "watcher_kills": 45,
+            "milestone_completions": 31,
+            "fastest_time_s": 519899,
+            "fastest_time_s_plus": 268850
+          },
+          "best_runs": [
+            {
+              "timestamp": 1630272379753,
+              "score_exploration": 97,
+              "score_speed": 100,
+              "score_skill": 94,
+              "score_bonus": 5,
+              "dungeon_class": "berserk",
+              "teammates": [
+                "6ffe9fbf-2f47-489c-a9da-66159a76f0c6",
+                "beecc5c9-1890-4d59-af35-0d787f8dd20c",
+                "9e31ec4c-fb79-4442-bdc9-ec04f41dbea7",
+                "e571eb89-fa7e-4f7d-acd8-f08968590cf6"
+              ],
+              "elapsed_time": 770554,
+              "damage_dealt": 25870334.19258261,
+              "deaths": 1,
+              "mobs_killed": 76,
+              "secrets_found": 0,
+              "damage_mitigated": 741219.8623187455
+            },
+            {
+              "timestamp": 1630420213018,
+              "score_exploration": 76,
+              "score_speed": 100,
+              "score_skill": 94,
+              "score_bonus": 1,
+              "dungeon_class": "berserk",
+              "teammates": [
+                "def84c2c-fe06-4768-acb3-001b1fe8604b",
+                "2277aae5-283c-447f-b8e8-412d8f54605c",
+                "cd328dfa-eb4d-46a0-a5c1-b229b99b4838",
+                "f3588f41-e774-4576-a86b-f64103ffce72"
+              ],
+              "elapsed_time": 811983,
+              "damage_dealt": 16847960.550621103,
+              "deaths": 0,
+              "mobs_killed": 48,
+              "secrets_found": 0,
+              "damage_mitigated": 775979.4242854629,
+              "ally_healing": 2535.9146016441923
+            },
+            {
+              "timestamp": 1630421880882,
+              "score_exploration": 94,
+              "score_speed": 100,
+              "score_skill": 85,
+              "score_bonus": 5,
+              "dungeon_class": "berserk",
+              "teammates": [
+                "4e02230e-58c9-431e-a5a9-b4b439c1a35e",
+                "997f3b31-1f0c-4278-aafa-31ab89b1d869",
+                "72a64181-8160-43f9-9dfc-68460d761650",
+                "d6cc5322-c81f-4567-a76e-f3ff6db19088"
+              ],
+              "elapsed_time": 865358,
+              "damage_dealt": 41810172.68394703,
+              "deaths": 0,
+              "mobs_killed": 108,
+              "secrets_found": 0,
+              "damage_mitigated": 604992.3958257785,
+              "ally_healing": 816.3099999999997
+            },
+            {
+              "timestamp": 1630519464506,
+              "score_exploration": 100,
+              "score_speed": 100,
+              "score_skill": 90,
+              "score_bonus": 5,
+              "dungeon_class": "berserk",
+              "teammates": [
+                "82f691de-c85a-4e3b-84d8-eea7adae8273",
+                "762e2f6f-c546-4b32-9eb9-4ff051a58ca4",
+                "15da00c0-b3bc-4c57-a9f1-9c0a67c05bac",
+                "5667f799-f8fc-421b-8c53-5fdc46815eac"
+              ],
+              "elapsed_time": 1260301,
+              "damage_dealt": 40179567.22741716,
+              "deaths": 0,
+              "mobs_killed": 138,
+              "secrets_found": 1,
+              "damage_mitigated": 387425.2539421988,
+              "ally_healing": 2329.827701498782
+            },
+            {
+              "timestamp": 1631529061680,
+              "score_exploration": 78,
+              "score_speed": 100,
+              "score_skill": 94,
+              "score_bonus": 1,
+              "dungeon_class": "berserk",
+              "teammates": [
+                "53b58868-8b93-4995-8e98-4e416b590aa0",
+                "ce98d4f9-26ae-498e-84a9-e140f0850e64",
+                "c88f506f-f432-44fe-bc31-acda0035903d",
+                "7f7fdbc6-0375-4005-b8b4-3267ce128df5"
+              ],
+              "elapsed_time": 602992,
+              "damage_dealt": 37665635.16482795,
+              "deaths": 2,
+              "mobs_killed": 95,
+              "secrets_found": 0,
+              "damage_mitigated": 859804.3396389221,
+              "ally_healing": 398.92234341727004
+            },
+            {
+              "timestamp": 1632238808552,
+              "score_exploration": 100,
+              "score_speed": 100,
+              "score_skill": 94,
+              "score_bonus": 5,
+              "dungeon_class": "berserk",
+              "teammates": [
+                "b6f28935-1f9a-430b-8f2b-5f9176802274",
+                "90e8d0bd-9b34-426a-9c89-75e5d65d93df",
+                "efe03e77-cbc8-4663-971b-c7e642284f33",
+                "8f21eafa-9920-4b69-9409-a8f97df2d902"
+              ],
+              "elapsed_time": 739079,
+              "damage_dealt": 49980479.37023484,
+              "deaths": 1,
+              "mobs_killed": 171,
+              "secrets_found": 0,
+              "damage_mitigated": 1067603.9533651657,
+              "ally_healing": 157.5
+            },
+            {
+              "timestamp": 1632245164979,
+              "score_exploration": 84,
+              "score_speed": 100,
+              "score_skill": 60,
+              "score_bonus": 4,
+              "dungeon_class": "berserk",
+              "teammates": [
+                "c5663e57-4436-4070-bbea-8106a4f43666",
+                "ca15f9c7-2c63-4f65-bb4c-d351bccef11c",
+                "3103b98b-d9e4-49c8-99f6-0351e7bff744",
+                "e9c30424-c812-4969-a99f-b5dcbfbb0c19"
+              ],
+              "elapsed_time": 1018981,
+              "damage_dealt": 51641494.64724673,
+              "deaths": 1,
+              "mobs_killed": 119,
+              "secrets_found": 1,
+              "damage_mitigated": 868647.8108724059
+            },
+            {
+              "timestamp": 1632318586088,
+              "score_exploration": 70,
+              "score_speed": 100,
+              "score_skill": 78,
+              "score_bonus": 1,
+              "dungeon_class": "berserk",
+              "teammates": [
+                "132b62c9-3d1e-46bf-923d-e1c91b99537f",
+                "18354bfd-3576-4e39-9376-b5a9306322e0",
+                "906fe026-4e70-4989-bcaf-7f600bd5c062"
+              ],
+              "elapsed_time": 675834,
+              "damage_dealt": 75138984.37771869,
+              "deaths": 0,
+              "mobs_killed": 112,
+              "secrets_found": 0,
+              "damage_mitigated": 1675488.3881919621
+            },
+            {
+              "timestamp": 1633255707974,
+              "score_exploration": 98,
+              "score_speed": 100,
+              "score_skill": 94,
+              "score_bonus": 5,
+              "dungeon_class": "berserk",
+              "teammates": [
+                "372bc8c6-ef1f-4932-8001-cf6ab5bd84af",
+                "fe6128bf-e35b-426e-ad56-dfe73d561067",
+                "0c662d42-3a7b-4463-9b64-c3ff8d262f29",
+                "17f08b08-5589-4ca0-a332-1ac406010a6e"
+              ],
+              "elapsed_time": 705778,
+              "damage_dealt": 71379954.65366893,
+              "deaths": 0,
+              "mobs_killed": 182,
+              "secrets_found": 2,
+              "damage_mitigated": 1109825.8136365546,
+              "ally_healing": 86.9
+            },
+            {
+              "timestamp": 1641309891009,
+              "score_exploration": 100,
+              "score_speed": 100,
+              "score_skill": 100,
+              "score_bonus": 2,
+              "dungeon_class": "archer",
+              "teammates": [
+                "ea5639d6-d7bc-49b6-b90f-f3d767359ffb",
+                "caf32c00-3aa9-4c81-b6ac-064dc10ed152",
+                "3e8a14ef-4b98-45b9-8b67-3e68152e78e9",
+                "11721e38-ce21-4568-b726-3cf7b0a7160a"
+              ],
+              "elapsed_time": 268850,
+              "damage_dealt": 28640346.004408438,
+              "deaths": 0,
+              "mobs_killed": 45,
+              "secrets_found": 15,
+              "damage_mitigated": 116381.9066666666
+            }
+          ],
+          "most_damage": {
+            "class": "archer",
+            "value": 603311741.0912004
+          }
+        },
+        "5": {
+          "name": "floor_5",
+          "icon_texture": "5720917cda0567442617f2721e88be9d2ffbb0b26a3f4c2fe21655814d4f4476",
+          "stats": {
+            "times_played": 680,
+            "tier_completions": 193,
+            "fastest_time": 142585,
+            "best_score": 313,
+            "mobs_killed": 20498,
+            "most_mobs_killed": 329,
+            "most_healing": 14497.84490880427,
+            "watcher_kills": 600,
+            "milestone_completions": 193,
+            "fastest_time_s": 258528,
+            "fastest_time_s_plus": 197168
+          },
+          "best_runs": [
+            {
+              "timestamp": 1631805868140,
+              "score_exploration": 100,
+              "score_speed": 100,
+              "score_skill": 98,
+              "score_bonus": 15,
+              "dungeon_class": "berserk",
+              "teammates": [
+                "82f91167-46b1-4911-9f1d-9cca25fe3c9e",
+                "7aa5647d-488e-4577-886c-a7023162a69e",
+                "bdeed6c2-1d55-4c33-9a71-3b18364fdfb3",
+                "bdfa5def-01eb-499e-a379-e39cb5c0ed4e"
+              ],
+              "elapsed_time": 764198,
+              "damage_dealt": 48989391.277139805,
+              "deaths": 0,
+              "mobs_killed": 124,
+              "secrets_found": 2,
+              "damage_mitigated": 486580.10196078435,
+              "ally_healing": 720.8630000000002
+            },
+            {
+              "timestamp": 1631888157602,
+              "score_exploration": 100,
+              "score_speed": 100,
+              "score_skill": 100,
+              "score_bonus": 5,
+              "dungeon_class": "berserk",
+              "teammates": [
+                "a712dae2-c711-4908-bbee-9590fa54b651",
+                "003d4086-fed0-4b56-8316-05c5bfdde0f8",
+                "6d9283e3-3797-401b-8378-115e56856df6",
+                "9718dc87-8f00-4a1a-9bc8-51aee8a1dabb"
+              ],
+              "elapsed_time": 464725,
+              "damage_dealt": 30181135.974405766,
+              "deaths": 0,
+              "mobs_killed": 70,
+              "secrets_found": 1,
+              "damage_mitigated": 819656.1654671252,
+              "ally_healing": 1400.6681445312502
+            },
+            {
+              "timestamp": 1631915751581,
+              "score_exploration": 100,
+              "score_speed": 100,
+              "score_skill": 100,
+              "score_bonus": 5,
+              "dungeon_class": "berserk",
+              "teammates": [
+                "df8a85f0-db40-4a5b-9b07-42cf1ed42f9b",
+                "0cd97370-f990-4c0a-a0ac-22ca05e7813a",
+                "62de70af-6b01-479c-a236-dd355f88293d",
+                "7dafd1bb-420c-4b73-a197-7c341bf8c998"
+              ],
+              "elapsed_time": 551329,
+              "damage_dealt": 52829202.241940595,
+              "deaths": 0,
+              "mobs_killed": 106,
+              "secrets_found": 1,
+              "damage_mitigated": 1409831.9188772682,
+              "ally_healing": 5728.5633671875
+            },
+            {
+              "timestamp": 1631969149429,
+              "score_exploration": 100,
+              "score_speed": 100,
+              "score_skill": 98,
+              "score_bonus": 15,
+              "dungeon_class": "berserk",
+              "teammates": [
+                "aa72b9aa-b6d5-4baf-b259-2ced00063a88",
+                "6b6d2cc4-5213-4d49-884e-ae43fd5e9206",
+                "cc087a69-5644-4c71-a92b-a62fee13376c",
+                "1c2e8ad7-4a38-4ea2-8c1f-ad07db32b063"
+              ],
+              "elapsed_time": 791488,
+              "damage_dealt": 119715736.34325792,
+              "deaths": 0,
+              "mobs_killed": 270,
+              "secrets_found": 1,
+              "damage_mitigated": 1066743.1618411036,
+              "ally_healing": 695.878
+            },
+            {
+              "timestamp": 1631997408476,
+              "score_exploration": 100,
+              "score_speed": 100,
+              "score_skill": 100,
+              "score_bonus": 5,
+              "dungeon_class": "berserk",
+              "teammates": [
+                "d3456f33-71dd-4f42-aa12-b889180f11aa",
+                "158045b7-671d-4505-aa71-4dcbe29edb09",
+                "99eaeb81-2416-46b8-b10c-d6844e22f202",
+                "4225f13a-ce74-4bea-ac6a-29a58fd5de4e"
+              ],
+              "elapsed_time": 433473,
+              "damage_dealt": 37708218.847931325,
+              "deaths": 0,
+              "mobs_killed": 89,
+              "secrets_found": 2,
+              "damage_mitigated": 757769.61301601,
+              "ally_healing": 1510.3210898437505
+            },
+            {
+              "timestamp": 1632000837718,
+              "score_exploration": 100,
+              "score_speed": 100,
+              "score_skill": 100,
+              "score_bonus": 5,
+              "dungeon_class": "berserk",
+              "teammates": [
+                "97ea7e6e-00c5-4ca3-806b-e9ab76f2d15f",
+                "158045b7-671d-4505-aa71-4dcbe29edb09",
+                "99eaeb81-2416-46b8-b10c-d6844e22f202",
+                "4225f13a-ce74-4bea-ac6a-29a58fd5de4e"
+              ],
+              "elapsed_time": 492103,
+              "damage_dealt": 42188885.00529682,
+              "deaths": 0,
+              "mobs_killed": 84,
+              "secrets_found": 0,
+              "damage_mitigated": 597915.3444837753,
+              "ally_healing": 1792.1072617187506
+            },
+            {
+              "timestamp": 1632001427647,
+              "score_exploration": 100,
+              "score_speed": 100,
+              "score_skill": 100,
+              "score_bonus": 5,
+              "dungeon_class": "berserk",
+              "teammates": [
+                "97ea7e6e-00c5-4ca3-806b-e9ab76f2d15f",
+                "158045b7-671d-4505-aa71-4dcbe29edb09",
+                "99eaeb81-2416-46b8-b10c-d6844e22f202",
+                "4225f13a-ce74-4bea-ac6a-29a58fd5de4e"
+              ],
+              "elapsed_time": 427787,
+              "damage_dealt": 42511486.70109479,
+              "deaths": 0,
+              "mobs_killed": 166,
+              "secrets_found": 2,
+              "damage_mitigated": 479649.03658390755,
+              "ally_healing": 107.6884765625
+            },
+            {
+              "timestamp": 1632053159205,
+              "score_exploration": 100,
+              "score_speed": 100,
+              "score_skill": 100,
+              "score_bonus": 5,
+              "dungeon_class": "berserk",
+              "teammates": [
+                "3d85ddf1-eda5-43df-bf0e-b5d59ef2f0de",
+                "7ebfa20b-7b3a-4678-9310-8cdbfe8aa285",
+                "7cc5bdb3-13b3-4898-9310-5f0e17908457",
+                "7c4d9f93-5e8f-49b7-8f50-85a9b6aac61c"
+              ],
+              "elapsed_time": 620880,
+              "damage_dealt": 72582444.910775,
+              "deaths": 0,
+              "mobs_killed": 133,
+              "secrets_found": 3,
+              "damage_mitigated": 686480.7181679892,
+              "ally_healing": 393.70265625
+            },
+            {
+              "timestamp": 1635702005578,
+              "score_exploration": 100,
+              "score_speed": 100,
+              "score_skill": 100,
+              "score_bonus": 5,
+              "dungeon_class": "berserk",
+              "teammates": [
+                "ecddfb34-6ecf-4d9a-94c1-aa107c3d8146",
+                "7b1819ef-12cb-47ad-a490-f010c9f7f497",
+                "3ec9d50a-66ce-4897-8184-bc5b418cb072",
+                "f5647e48-cc2e-4b87-8b8a-244dc803f21b"
+              ],
+              "elapsed_time": 303348,
+              "damage_dealt": 1983263.9291542706,
+              "deaths": 0,
+              "mobs_killed": 19,
+              "secrets_found": 6,
+              "damage_mitigated": 18770.381470876553
+            },
+            {
+              "timestamp": 1640911432011,
+              "score_exploration": 100,
+              "score_speed": 100,
+              "score_skill": 100,
+              "score_bonus": 5,
+              "dungeon_class": "archer",
+              "teammates": [
+                "511ee3eb-8a97-4a6b-b488-e0813e6b7a9b",
+                "c4cc4e52-0f41-4849-a5f4-bec117c403dc",
+                "893c4161-2cde-4464-aaed-7648e2c99b38",
+                "a825e802-c625-411c-81aa-c090843f588e"
+              ],
+              "elapsed_time": 314486,
+              "damage_dealt": 49112657.98367196,
+              "deaths": 0,
+              "mobs_killed": 85,
+              "secrets_found": 11,
+              "damage_mitigated": 318372.2696968743
+            }
+          ],
+          "most_damage": {
+            "class": "archer",
+            "value": 237149894.8215372
+          }
+        },
+        "6": {
+          "name": "floor_6",
+          "icon_texture": "3ce69d2ddcc81c9fc2e9948c92003eb0f7ebf0e7e952e801b7f2069dcee76d85",
+          "stats": {
+            "times_played": 1235,
+            "tier_completions": 1055,
+            "fastest_time": 198983,
+            "best_score": 317,
+            "mobs_killed": 88593,
+            "most_mobs_killed": 275,
+            "most_healing": 21389.1790703125,
+            "watcher_kills": 1108,
+            "milestone_completions": 1054,
+            "fastest_time_s": 207158,
+            "fastest_time_s_plus": 198983
+          },
+          "best_runs": [
+            {
+              "timestamp": 1634487709009,
+              "score_exploration": 100,
+              "score_speed": 100,
+              "score_skill": 100,
+              "score_bonus": 17,
+              "dungeon_class": "berserk",
+              "teammates": [
+                "6d3881aa-1514-47ea-88cb-eb8be3af2b13",
+                "a85d25f9-002c-46be-8429-494abbaff719",
+                "00d3664d-0fa0-4383-942d-b0fe1e11243c",
+                "56a5dad8-d41e-48db-ac11-ceb28c6cb27f"
+              ],
+              "elapsed_time": 497979,
+              "damage_dealt": 95049032.22983615,
+              "deaths": 0,
+              "mobs_killed": 71,
+              "secrets_found": 8,
+              "damage_mitigated": 849704.8772971823,
+              "ally_healing": 634.736328125
+            },
+            {
+              "timestamp": 1634805062906,
+              "score_exploration": 100,
+              "score_speed": 100,
+              "score_skill": 100,
+              "score_bonus": 17,
+              "dungeon_class": "berserk",
+              "teammates": [
+                "5c1701b8-ba6e-4de1-94d5-1a9303b99abf",
+                "0a47e0db-4cb7-4de0-b48a-906eb4f8e268",
+                "d53e6678-2d24-4125-bba9-cede3d757a62",
+                "76c08899-3327-44ba-8cc0-ff4b8b51c7ce"
+              ],
+              "elapsed_time": 440326,
+              "damage_dealt": 58905454.780256085,
+              "deaths": 0,
+              "mobs_killed": 74,
+              "secrets_found": 6,
+              "damage_mitigated": 499690.4417900093,
+              "ally_healing": 33.263671875
+            },
+            {
+              "timestamp": 1639779219559,
+              "score_exploration": 100,
+              "score_speed": 100,
+              "score_skill": 100,
+              "score_bonus": 16,
+              "dungeon_class": "archer",
+              "teammates": [
+                "40019675-1692-485f-bb63-e4825a8ba542",
+                "af52bbe7-25ca-419b-8a99-4ae4835f5ca6",
+                "2b52542e-1b23-4a3f-949b-d086e117f895",
+                "3aee5ef4-bfcd-4a7e-83b2-73d84a63e767"
+              ],
+              "elapsed_time": 307317,
+              "damage_dealt": 258267140.2686069,
+              "deaths": 0,
+              "mobs_killed": 50,
+              "secrets_found": 9,
+              "damage_mitigated": 147277.5
+            },
+            {
+              "timestamp": 1639779793583,
+              "score_exploration": 100,
+              "score_speed": 100,
+              "score_skill": 100,
+              "score_bonus": 17,
+              "dungeon_class": "archer",
+              "teammates": [
+                "40019675-1692-485f-bb63-e4825a8ba542",
+                "af52bbe7-25ca-419b-8a99-4ae4835f5ca6",
+                "2b52542e-1b23-4a3f-949b-d086e117f895",
+                "3aee5ef4-bfcd-4a7e-83b2-73d84a63e767"
+              ],
+              "elapsed_time": 485937,
+              "damage_dealt": 260780084.36581624,
+              "deaths": 0,
+              "mobs_killed": 74,
+              "secrets_found": 14,
+              "damage_mitigated": 341117.5666666667
+            },
+            {
+              "timestamp": 1639822890441,
+              "score_exploration": 100,
+              "score_speed": 100,
+              "score_skill": 100,
+              "score_bonus": 16,
+              "dungeon_class": "archer",
+              "teammates": [
+                "364e5189-2d10-415b-8e80-a0a2387f05d9",
+                "2167b715-8dcb-4a06-b8e1-20e864ff0d35",
+                "8f902a95-26c3-4f15-b949-b23f4e9d163b",
+                "80756968-fabf-4866-a69d-ebce924dd924"
+              ],
+              "elapsed_time": 529646,
+              "damage_dealt": 266949403.71104366,
+              "deaths": 0,
+              "mobs_killed": 11,
+              "secrets_found": 0,
+              "damage_mitigated": 511936.9
+            },
+            {
+              "timestamp": 1642968064155,
+              "score_exploration": 100,
+              "score_speed": 100,
+              "score_skill": 100,
+              "score_bonus": 17,
+              "dungeon_class": "archer",
+              "teammates": [
+                "1e5534df-c658-41d1-8d83-70437f1dd069",
+                "fb19b740-f68e-440f-9ec1-10e9365a734d",
+                "6fbe39cf-645d-4fed-be66-a3857716cf67",
+                "96bbaa83-fb47-45c0-8685-acca8ceb6be9"
+              ],
+              "elapsed_time": 322824,
+              "damage_dealt": 275421806.24123687,
+              "deaths": 0,
+              "mobs_killed": 81,
+              "secrets_found": 7,
+              "damage_mitigated": 181223.72263511881
+            },
+            {
+              "timestamp": 1643398947001,
+              "score_exploration": 99,
+              "score_speed": 100,
+              "score_skill": 100,
+              "score_bonus": 17,
+              "dungeon_class": "mage",
+              "teammates": [
+                "d9ca9dec-72e2-4fa4-8b5a-1ef660a66af0",
+                "96972998-8e3f-4db7-bb02-14711b996553",
+                "29005a05-5168-448b-b63f-53dc86d5b683",
+                "62f4938a-624d-445c-91ed-41b454d99072"
+              ],
+              "elapsed_time": 281862,
+              "damage_dealt": 224165285.29846075,
+              "deaths": 0,
+              "mobs_killed": 81,
+              "secrets_found": 9,
+              "damage_mitigated": 568696.7
+            },
+            {
+              "timestamp": 1643409623272,
+              "score_exploration": 100,
+              "score_speed": 100,
+              "score_skill": 100,
+              "score_bonus": 17,
+              "dungeon_class": "mage",
+              "teammates": [
+                "758bc8b4-adf6-438f-a321-6994d8377bc9",
+                "9ddeb14c-d121-42a8-975e-1f909a485a6b",
+                "4d3c3f32-6682-4a8e-8130-2bc10ab0efa1",
+                "60effdca-e31b-43a9-b27b-2d02a462ad2b"
+              ],
+              "elapsed_time": 303016,
+              "damage_dealt": 419231774.4561411,
+              "deaths": 0,
+              "mobs_killed": 134,
+              "secrets_found": 7,
+              "damage_mitigated": 311736.87599894725
+            },
+            {
+              "timestamp": 1643902786954,
+              "score_exploration": 100,
+              "score_speed": 100,
+              "score_skill": 100,
+              "score_bonus": 17,
+              "dungeon_class": "mage",
+              "teammates": [
+                "d1d5399b-133b-431f-9afd-bddc6da69c7a",
+                "8aec52f7-be5b-45e5-a4af-b4378430edb3",
+                "eef4ede6-88d5-4715-a2ca-494752fc30cc",
+                "9fe506fe-ef4a-48d1-b99a-5709669aad58"
+              ],
+              "elapsed_time": 231243,
+              "damage_dealt": 157432155.05550274,
+              "deaths": 0,
+              "mobs_killed": 71,
+              "secrets_found": 0,
+              "damage_mitigated": 581387.1
+            },
+            {
+              "timestamp": 1644179682000,
+              "score_exploration": 100,
+              "score_speed": 100,
+              "score_skill": 100,
+              "score_bonus": 17,
+              "dungeon_class": "mage",
+              "teammates": [
+                "e6ee8583-528f-4e6a-acdf-b712f6acd01e",
+                "5c4fe7e4-b2dd-4ebb-a4d6-6bcbf940ca42",
+                "63f4a51d-7dd1-4d7e-83da-3fda6174e6d2",
+                "716b126e-a2e7-498d-8d9c-dc1f2ad2012b"
+              ],
+              "elapsed_time": 286569,
+              "damage_dealt": 375389933.7906059,
+              "deaths": 0,
+              "mobs_killed": 75,
+              "secrets_found": 3,
+              "damage_mitigated": 187358.09437022178
+            }
+          ],
+          "most_damage": {
+            "class": "archer",
+            "value": 1331887646.1168754
+          }
+        },
+        "7": {
+          "name": "floor_7",
+          "icon_texture": "76965e3fd619de6b0a7ce1673072520a9360378e1cb8c19d4baf0c86769d3764",
+          "stats": {
+            "times_played": 747,
+            "tier_completions": 456,
+            "fastest_time": 322730,
+            "best_score": 317,
+            "mobs_killed": 75929,
+            "most_mobs_killed": 347,
+            "most_healing": 26478,
+            "watcher_kills": 602,
+            "milestone_completions": 456,
+            "fastest_time_s": 375487,
+            "fastest_time_s_plus": 322730
+          },
+          "best_runs": [
+            {
+              "timestamp": 1634493601970,
+              "score_exploration": 100,
+              "score_speed": 100,
+              "score_skill": 100,
+              "score_bonus": 17,
+              "dungeon_class": "berserk",
+              "teammates": [
+                "00d3664d-0fa0-4383-942d-b0fe1e11243c",
+                "18cac948-0147-4743-8efa-35a239d338c4",
+                "7df16796-fe9d-4db9-8960-c6a7d9c1e895",
+                "2ff048c8-b6bf-44c7-a5c4-60d17b2ce5c4"
+              ],
+              "elapsed_time": 723395,
+              "damage_dealt": 381686032.8384417,
+              "deaths": 0,
+              "mobs_killed": 101,
+              "secrets_found": 2,
+              "damage_mitigated": 2352397.903039195,
+              "ally_healing": 344
+            },
+            {
+              "timestamp": 1639492953413,
+              "score_exploration": 99,
+              "score_speed": 100,
+              "score_skill": 100,
+              "score_bonus": 17,
+              "dungeon_class": "archer",
+              "teammates": [
+                "6b6e5a4d-38f8-43db-9466-94de1021299b",
+                "15bde462-4150-448c-9cf6-61b561cac724",
+                "11a96e33-79d5-46ae-99a0-2b8d12035c9c",
+                "aaa05d9a-5577-443c-8052-89c21e9651b2"
+              ],
+              "elapsed_time": 501642,
+              "damage_dealt": 482884029.754227,
+              "deaths": 0,
+              "mobs_killed": 88,
+              "secrets_found": 5,
+              "damage_mitigated": 832771.483724761
+            },
+            {
+              "timestamp": 1639493518595,
+              "score_exploration": 99,
+              "score_speed": 100,
+              "score_skill": 100,
+              "score_bonus": 17,
+              "dungeon_class": "archer",
+              "teammates": [
+                "6b6e5a4d-38f8-43db-9466-94de1021299b",
+                "15bde462-4150-448c-9cf6-61b561cac724",
+                "11a96e33-79d5-46ae-99a0-2b8d12035c9c",
+                "aaa05d9a-5577-443c-8052-89c21e9651b2"
+              ],
+              "elapsed_time": 443289,
+              "damage_dealt": 537716799.1768868,
+              "deaths": 0,
+              "mobs_killed": 119,
+              "secrets_found": 11,
+              "damage_mitigated": 811454.5725303133
+            },
+            {
+              "timestamp": 1642607087437,
+              "score_exploration": 99,
+              "score_speed": 100,
+              "score_skill": 100,
+              "score_bonus": 15,
+              "dungeon_class": "archer",
+              "teammates": [
+                "fadbe5f9-daf0-4901-bda5-e1096633b359",
+                "ae7b5801-50b8-4fac-995f-45a8f29c90ce",
+                "3da5c8ca-44f0-4bfb-ad9e-35ae41a3a419",
+                "df6cbb23-daba-477f-bc1c-af23d1e0faf3"
+              ],
+              "elapsed_time": 530831,
+              "damage_dealt": 483799778.4755838,
+              "deaths": 0,
+              "mobs_killed": 129,
+              "secrets_found": 15,
+              "damage_mitigated": 886476.2516852284
+            },
+            {
+              "timestamp": 1642609198649,
+              "score_exploration": 100,
+              "score_speed": 100,
+              "score_skill": 100,
+              "score_bonus": 17,
+              "dungeon_class": "archer",
+              "teammates": [
+                "ae7b5801-50b8-4fac-995f-45a8f29c90ce",
+                "cb9da5a9-57a6-40aa-8f7f-b1fe4a0531d5",
+                "3da5c8ca-44f0-4bfb-ad9e-35ae41a3a419",
+                "df6cbb23-daba-477f-bc1c-af23d1e0faf3"
+              ],
+              "elapsed_time": 404222,
+              "damage_dealt": 586668975.4420197,
+              "deaths": 0,
+              "mobs_killed": 102,
+              "secrets_found": 14,
+              "damage_mitigated": 494015.68380133767
+            },
+            {
+              "timestamp": 1642610468997,
+              "score_exploration": 96,
+              "score_speed": 100,
+              "score_skill": 100,
+              "score_bonus": 17,
+              "dungeon_class": "archer",
+              "teammates": [
+                "57309dfc-084c-48c3-9512-c8ba385af4bd",
+                "ae7b5801-50b8-4fac-995f-45a8f29c90ce",
+                "3da5c8ca-44f0-4bfb-ad9e-35ae41a3a419",
+                "df6cbb23-daba-477f-bc1c-af23d1e0faf3"
+              ],
+              "elapsed_time": 465067,
+              "damage_dealt": 391461607.8276598,
+              "deaths": 0,
+              "mobs_killed": 66,
+              "secrets_found": 11,
+              "damage_mitigated": 767189.7568672865
+            },
+            {
+              "timestamp": 1642617345086,
+              "score_exploration": 99,
+              "score_speed": 100,
+              "score_skill": 97,
+              "score_bonus": 17,
+              "dungeon_class": "archer",
+              "teammates": [
+                "1fa75e2b-0aff-4759-bedb-bc2b1c91c008",
+                "624a0699-2522-4c3c-8364-9e24e48dc1e3",
+                "a95d0228-8c9d-4428-a74b-e0695934bea6",
+                "4c65d528-fae9-47bc-a466-212214818080"
+              ],
+              "elapsed_time": 560755,
+              "damage_dealt": 468396756.584088,
+              "deaths": 0,
+              "mobs_killed": 113,
+              "secrets_found": 15,
+              "damage_mitigated": 1272748.8802648676
+            },
+            {
+              "timestamp": 1643031272088,
+              "score_exploration": 97,
+              "score_speed": 100,
+              "score_skill": 100,
+              "score_bonus": 17,
+              "dungeon_class": "berserk",
+              "teammates": [
+                "dcb893f4-9521-49c8-82cb-757ea4ff0118",
+                "b21bd67c-2495-4732-b64c-53a59f33470b",
+                "c6500f7e-66dd-431e-9359-4d194561ee5a",
+                "91e02a42-4057-4416-869e-25f5e64ee378"
+              ],
+              "elapsed_time": 550782,
+              "damage_dealt": 191343206.6350949,
+              "deaths": 0,
+              "mobs_killed": 55,
+              "secrets_found": 9,
+              "damage_mitigated": 1610991.882029692
+            },
+            {
+              "timestamp": 1643109842686,
+              "score_exploration": 100,
+              "score_speed": 100,
+              "score_skill": 100,
+              "score_bonus": 15,
+              "dungeon_class": "archer",
+              "teammates": [
+                "76d98d6d-cdc3-4501-9b24-2dff05d166c5",
+                "e3c1bc2e-ce5d-4560-9a38-1e460e5f7c06",
+                "e66d3960-d4fd-4fb1-901f-66fd0f1d879f",
+                "426421e5-4bb6-4b2b-bf60-da594f2d00eb"
+              ],
+              "elapsed_time": 511508,
+              "damage_dealt": 574706758.7360833,
+              "deaths": 0,
+              "mobs_killed": 121,
+              "secrets_found": 8,
+              "damage_mitigated": 955882.7416174749
+            },
+            {
+              "timestamp": 1643144543583,
+              "score_exploration": 100,
+              "score_speed": 100,
+              "score_skill": 98,
+              "score_bonus": 17,
+              "dungeon_class": "archer",
+              "teammates": [
+                "e0bc4800-d95d-4076-b113-d78453dda5ce",
+                "347484f6-abdb-4e0a-9415-ecda3e1c4334",
+                "dec3a91f-ea52-4c86-bf4a-c3660c3df904",
+                "c0392a81-1e50-4186-8707-ddd7c475d0f6"
+              ],
+              "elapsed_time": 392496,
+              "damage_dealt": 393100477.6369836,
+              "deaths": 0,
+              "mobs_killed": 110,
+              "secrets_found": 9,
+              "damage_mitigated": 750484.3435497602
+            }
+          ],
+          "most_damage": {
+            "class": "archer",
+            "value": 2566165598.874741
+          }
+        }
+      },
+      "bonuses": {
+        "item_boost": 333
+      }
+    },
+    "master_catacombs": {
+      "id": "dungeon_master_catacombs",
+      "visited": true,
+      "level": {
+        "xp": 0,
+        "level": 0,
+        "maxLevel": 50,
+        "xpCurrent": 0,
+        "xpForNext": 50,
+        "progress": 0,
+        "levelCap": 50,
+        "uncappedLevel": 0,
+        "levelWithProgress": 0,
+        "unlockableLevelWithProgress": 0
+      },
+      "highest_floor": "floor_6",
+      "floors": {
+        "1": {
+          "name": "floor_1",
+          "icon_texture": "1eb5b21af330af122b268b7aa390733bd1b699b4d0923233ecd24f81e08b9bce",
+          "stats": {
+            "tier_completions": 22,
+            "milestone_completions": 22,
+            "fastest_time": 218585,
+            "fastest_time_s": 218585,
+            "best_score": 297,
+            "mobs_killed": 2024,
+            "most_mobs_killed": 158,
+            "most_healing": 7949.922750000003
+          },
+          "best_runs": [
+            {
+              "timestamp": 1632670478885,
+              "score_exploration": 100,
+              "score_speed": 100,
+              "score_skill": 85,
+              "score_bonus": 5,
+              "dungeon_class": "berserk",
+              "teammates": [
+                "7b3f713e-a576-4f0a-973d-ac4c458598c0",
+                "b3dd0d77-33bc-44a1-b66c-3fe3a1128e85",
+                "8631ebcb-78a0-4af3-8145-6d8134c1c7e1",
+                "07e8601e-815e-4d8e-b9a0-2b91e05e50ea"
+              ],
+              "elapsed_time": 404559,
+              "damage_dealt": 91122671.56191507,
+              "deaths": 3,
+              "mobs_killed": 28,
+              "secrets_found": 1,
+              "damage_mitigated": 1551059.4545454546,
+              "ally_healing": 404.8123828125
+            },
+            {
+              "timestamp": 1637001717013,
+              "score_exploration": 100,
+              "score_speed": 100,
+              "score_skill": 96,
+              "score_bonus": 1,
+              "dungeon_class": "archer",
+              "teammates": [
+                "5b376043-88fc-4ea7-afc6-e09bbecf65c6",
+                "5913e2c4-d27c-44ef-ad9d-5d66ff55e4fb",
+                "b503c52d-688e-4cfb-b828-406bf86a0935"
+              ],
+              "elapsed_time": 578727,
+              "damage_dealt": 604170583.5077671,
+              "deaths": 0,
+              "mobs_killed": 95,
+              "secrets_found": 2,
+              "damage_mitigated": 859118
+            },
+            {
+              "timestamp": 1640903326348,
+              "score_exploration": 85,
+              "score_speed": 100,
+              "score_skill": 98,
+              "score_bonus": 0,
+              "dungeon_class": "archer",
+              "teammates": [
+                "32f8adce-b9b8-48a1-9f83-f0560bc2f1c8",
+                "f6868222-800e-4207-b506-483ed4c7491b",
+                "eac7e077-f88d-4d60-961e-78221cf69d40"
+              ],
+              "elapsed_time": 245811,
+              "damage_dealt": 97456057.80397335,
+              "deaths": 0,
+              "mobs_killed": 24,
+              "secrets_found": 7,
+              "damage_mitigated": 880456.6666666666
+            },
+            {
+              "timestamp": 1641310652205,
+              "score_exploration": 98,
+              "score_speed": 100,
+              "score_skill": 94,
+              "score_bonus": 4,
+              "dungeon_class": "archer",
+              "teammates": [
+                "caf32c00-3aa9-4c81-b6ac-064dc10ed152",
+                "3e8a14ef-4b98-45b9-8b67-3e68152e78e9",
+                "11721e38-ce21-4568-b726-3cf7b0a7160a"
+              ],
+              "elapsed_time": 293085,
+              "damage_dealt": 72784046.8004397,
+              "deaths": 0,
+              "mobs_killed": 34,
+              "secrets_found": 13,
+              "damage_mitigated": 211875
+            },
+            {
+              "timestamp": 1647112141560,
+              "score_exploration": 84,
+              "score_speed": 100,
+              "score_skill": 96,
+              "score_bonus": 3,
+              "dungeon_class": "berserk",
+              "teammates": [
+                "898c5fb1-f7de-4eaf-ab85-48680b25bf31",
+                "4b714872-0747-4374-b7be-97362d56fa17"
+              ],
+              "elapsed_time": 272619,
+              "damage_dealt": 343160895.8299109,
+              "deaths": 0,
+              "mobs_killed": 50,
+              "secrets_found": 8,
+              "damage_mitigated": 246784.6666666667,
+              "ally_healing": 744.9172500000002
+            },
+            {
+              "timestamp": 1647112466074,
+              "score_exploration": 90,
+              "score_speed": 100,
+              "score_skill": 84,
+              "score_bonus": 5,
+              "dungeon_class": "berserk",
+              "teammates": [
+                "898c5fb1-f7de-4eaf-ab85-48680b25bf31",
+                "4b714872-0747-4374-b7be-97362d56fa17"
+              ],
+              "elapsed_time": 275285,
+              "damage_dealt": 291814129.8397556,
+              "deaths": 0,
+              "mobs_killed": 56,
+              "secrets_found": 8,
+              "damage_mitigated": 498553.25,
+              "ally_healing": 2019.2287500000002
+            },
+            {
+              "timestamp": 1647112855878,
+              "score_exploration": 82,
+              "score_speed": 100,
+              "score_skill": 100,
+              "score_bonus": 4,
+              "dungeon_class": "berserk",
+              "teammates": [
+                "898c5fb1-f7de-4eaf-ab85-48680b25bf31",
+                "4b714872-0747-4374-b7be-97362d56fa17"
+              ],
+              "elapsed_time": 323042,
+              "damage_dealt": 278258552.3412896,
+              "deaths": 0,
+              "mobs_killed": 36,
+              "secrets_found": 0,
+              "damage_mitigated": 413073.75,
+              "ally_healing": 1993.0680000000004
+            },
+            {
+              "timestamp": 1647113507839,
+              "score_exploration": 80,
+              "score_speed": 100,
+              "score_skill": 98,
+              "score_bonus": 5,
+              "dungeon_class": "berserk",
+              "teammates": [
+                "898c5fb1-f7de-4eaf-ab85-48680b25bf31",
+                "4b714872-0747-4374-b7be-97362d56fa17"
+              ],
+              "elapsed_time": 275031,
+              "damage_dealt": 211858388.4555372,
+              "deaths": 0,
+              "mobs_killed": 61,
+              "secrets_found": 2,
+              "damage_mitigated": 522219.7799999714,
+              "ally_healing": 3232.8391796875003
+            },
+            {
+              "timestamp": 1647113825490,
+              "score_exploration": 78,
+              "score_speed": 100,
+              "score_skill": 96,
+              "score_bonus": 2,
+              "dungeon_class": "berserk",
+              "teammates": [
+                "898c5fb1-f7de-4eaf-ab85-48680b25bf31",
+                "4b714872-0747-4374-b7be-97362d56fa17"
+              ],
+              "elapsed_time": 273742,
+              "damage_dealt": 411743636.60165083,
+              "deaths": 0,
+              "mobs_killed": 49,
+              "secrets_found": 2,
+              "damage_mitigated": 1049801.2799999714,
+              "ally_healing": 6034.182000000002
+            },
+            {
+              "timestamp": 1647114138126,
+              "score_exploration": 83,
+              "score_speed": 100,
+              "score_skill": 98,
+              "score_bonus": 1,
+              "dungeon_class": "berserk",
+              "teammates": [
+                "898c5fb1-f7de-4eaf-ab85-48680b25bf31",
+                "4b714872-0747-4374-b7be-97362d56fa17"
+              ],
+              "elapsed_time": 218585,
+              "damage_dealt": 421591666.240378,
+              "deaths": 0,
+              "mobs_killed": 23,
+              "secrets_found": 8,
+              "damage_mitigated": 541900,
+              "ally_healing": 3784.9350000000004
+            }
+          ],
+          "most_damage": {
+            "class": "archer",
+            "value": 986460414.5427415
+          }
+        },
+        "2": {
+          "name": "floor_2",
+          "icon_texture": "32292e4e0fa62667256ef8da0f01982a996499f4d5d894bd058c3e6f3d2fb2d9",
+          "stats": {
+            "tier_completions": 8,
+            "milestone_completions": 8,
+            "fastest_time": 305869,
+            "fastest_time_s": 305869,
+            "best_score": 298,
+            "mobs_killed": 1427,
+            "most_mobs_killed": 234,
+            "most_healing": 215521.15545752767
+          },
+          "best_runs": [
+            {
+              "timestamp": 1636474115762,
+              "score_exploration": 76,
+              "score_speed": 100,
+              "score_skill": 96,
+              "score_bonus": 1,
+              "dungeon_class": "berserk",
+              "teammates": [
+                "d016e51b-39c1-4384-b53f-6ab52fcc1f95"
+              ],
+              "elapsed_time": 396426,
+              "damage_dealt": 164728951.03061712,
+              "deaths": 2,
+              "mobs_killed": 39,
+              "secrets_found": 1,
+              "damage_mitigated": 881392.9
+            },
+            {
+              "timestamp": 1636646674306,
+              "score_exploration": 93,
+              "score_speed": 100,
+              "score_skill": 90,
+              "score_bonus": 1,
+              "dungeon_class": "archer",
+              "teammates": [
+                "a9e6b78f-a9d6-4a7a-bdd8-042d36456133",
+                "faa94e9d-998c-432a-a434-7c564babc142",
+                "72e3dcff-5f1e-4aeb-935c-94533fe067c0",
+                "a9f9d5ea-ee79-46cb-89a6-9aa92428b9d2"
+              ],
+              "elapsed_time": 401439,
+              "damage_dealt": 474216567.8434382,
+              "deaths": 2,
+              "mobs_killed": 51,
+              "secrets_found": 1,
+              "damage_mitigated": 918922.0800000001
+            },
+            {
+              "timestamp": 1643555300341,
+              "score_exploration": 97,
+              "score_speed": 100,
+              "score_skill": 96,
+              "score_bonus": 5,
+              "dungeon_class": "healer",
+              "teammates": [
+                "a3897e27-a91c-425e-b96f-533b9832ba95",
+                "2aaeff43-4d6f-4fc9-b40d-e76989e1a715",
+                "008a6642-8547-46d5-b680-ca922759e307"
+              ],
+              "elapsed_time": 416280,
+              "damage_dealt": 235319376.4108182,
+              "deaths": 1,
+              "mobs_killed": 53,
+              "secrets_found": 10,
+              "damage_mitigated": 1453879.7400000002,
+              "ally_healing": 44202.30352921495
+            },
+            {
+              "timestamp": 1646584061881,
+              "score_exploration": 69,
+              "score_speed": 100,
+              "score_skill": 100,
+              "score_bonus": 3,
+              "dungeon_class": "archer",
+              "teammates": [
+                "4b714872-0747-4374-b7be-97362d56fa17"
+              ],
+              "elapsed_time": 316812,
+              "damage_dealt": 1274632875.6476605,
+              "deaths": 0,
+              "mobs_killed": 87,
+              "secrets_found": 2,
+              "damage_mitigated": 1308741.1764163752,
+              "ally_healing": 1388.8875
+            },
+            {
+              "timestamp": 1646923981835,
+              "score_exploration": 77,
+              "score_speed": 100,
+              "score_skill": 100,
+              "score_bonus": 1,
+              "dungeon_class": "archer",
+              "teammates": [
+                "ebc6686a-3026-4b62-8c64-7edaa634236e",
+                "4b714872-0747-4374-b7be-97362d56fa17"
+              ],
+              "elapsed_time": 305869,
+              "damage_dealt": 1225090119.3652756,
+              "deaths": 0,
+              "mobs_killed": 112,
+              "secrets_found": 2,
+              "damage_mitigated": 1395674.3500000003,
+              "ally_healing": 3422.4960000000005
+            },
+            {
+              "timestamp": 1646924393972,
+              "score_exploration": 85,
+              "score_speed": 100,
+              "score_skill": 98,
+              "score_bonus": 3,
+              "dungeon_class": "archer",
+              "teammates": [
+                "ebc6686a-3026-4b62-8c64-7edaa634236e",
+                "4b714872-0747-4374-b7be-97362d56fa17"
+              ],
+              "elapsed_time": 364461,
+              "damage_dealt": 1075773916.0255678,
+              "deaths": 0,
+              "mobs_killed": 97,
+              "secrets_found": 4,
+              "damage_mitigated": 485297.7666666666
+            },
+            {
+              "timestamp": 1647006675145,
+              "score_exploration": 74,
+              "score_speed": 100,
+              "score_skill": 98,
+              "score_bonus": 0,
+              "dungeon_class": "archer",
+              "teammates": [
+                "1b472a4f-7c15-4a79-bb92-f4feb8be41e1"
+              ],
+              "elapsed_time": 406163,
+              "damage_dealt": 1982198579.3752863,
+              "deaths": 0,
+              "mobs_killed": 151,
+              "secrets_found": 4,
+              "damage_mitigated": 1244622.9999999995,
+              "ally_healing": 1071.6090000000002
+            },
+            {
+              "timestamp": 1647034288699,
+              "score_exploration": 78,
+              "score_speed": 100,
+              "score_skill": 98,
+              "score_bonus": 5,
+              "dungeon_class": "archer",
+              "teammates": [
+                "728b32a6-c6f3-4718-b3a1-3542610a5109",
+                "892a583d-1e11-4a37-89e3-8aed42575193"
+              ],
+              "elapsed_time": 363358,
+              "damage_dealt": 1970001500.3268125,
+              "deaths": 0,
+              "mobs_killed": 137,
+              "secrets_found": 6,
+              "damage_mitigated": 1161831.3466666671,
+              "ally_healing": 5020.785000000001
+            }
+          ],
+          "most_damage": {
+            "class": "archer",
+            "value": 2171858388.464131
+          }
+        },
+        "3": {
+          "name": "floor_3",
+          "icon_texture": "c969f6b148648aa8d027228a52fb5a3ca1ee84dc76e47851f14db029a730a8a3",
+          "stats": {
+            "tier_completions": 187,
+            "milestone_completions": 187,
+            "fastest_time": 162407,
+            "fastest_time_s": 162407,
+            "best_score": 301,
+            "mobs_killed": 7888,
+            "most_mobs_killed": 180,
+            "most_healing": 52194.30958365373,
+            "fastest_time_s_plus": 234406
+          },
+          "best_runs": [
+            {
+              "timestamp": 1644883382360,
+              "score_exploration": 92,
+              "score_speed": 100,
+              "score_skill": 99,
+              "score_bonus": 0,
+              "dungeon_class": "berserk",
+              "teammates": [
+                "b7c4f5b1-762f-41ea-b6b4-45aba74198e5",
+                "1d8a5abb-1d9d-4cd7-a796-bd2e3907df34",
+                "6365f209-8116-4e21-bd20-bbb88d69cfe1",
+                "e44085b4-2afe-409a-9e46-97109ffa6d88"
+              ],
+              "elapsed_time": 186316,
+              "damage_dealt": 476347786.8625714,
+              "deaths": 0,
+              "mobs_killed": 23,
+              "secrets_found": 1,
+              "damage_mitigated": 903068.5,
+              "ally_healing": 97.02000000000001
+            },
+            {
+              "timestamp": 1644883699529,
+              "score_exploration": 96,
+              "score_speed": 100,
+              "score_skill": 100,
+              "score_bonus": 5,
+              "dungeon_class": "berserk",
+              "teammates": [
+                "b7c4f5b1-762f-41ea-b6b4-45aba74198e5",
+                "1d8a5abb-1d9d-4cd7-a796-bd2e3907df34",
+                "6365f209-8116-4e21-bd20-bbb88d69cfe1",
+                "e44085b4-2afe-409a-9e46-97109ffa6d88"
+              ],
+              "elapsed_time": 234406,
+              "damage_dealt": 872753394.6217068,
+              "deaths": 0,
+              "mobs_killed": 39,
+              "secrets_found": 0,
+              "damage_mitigated": 1303336.8
+            },
+            {
+              "timestamp": 1644923683679,
+              "score_exploration": 91,
+              "score_speed": 100,
+              "score_skill": 97,
+              "score_bonus": 3,
+              "dungeon_class": "berserk",
+              "teammates": [
+                "b06140f2-8651-4ec6-bbd5-7e54378f5958",
+                "b0f2be0a-95ca-4d8b-8169-487a0021d169",
+                "58717823-b82f-4106-9b4f-52db592ef4b2",
+                "7ecac420-4c66-4734-be60-e223eab44257"
+              ],
+              "elapsed_time": 251368,
+              "damage_dealt": 816449061.5925546,
+              "deaths": 0,
+              "mobs_killed": 78,
+              "secrets_found": 1,
+              "damage_mitigated": 1345218.75
+            },
+            {
+              "timestamp": 1644965151472,
+              "score_exploration": 85,
+              "score_speed": 100,
+              "score_skill": 100,
+              "score_bonus": 5,
+              "dungeon_class": "berserk",
+              "teammates": [
+                "1fb0422a-69ba-437a-918a-de6f58b19e92",
+                "f58a0338-d8db-41bc-b897-db418c32cd3a",
+                "c5f1576e-1f76-49d8-948a-ed685c49b50c",
+                "fddece9e-87e7-4c2e-8e3f-56fcf052a00c"
+              ],
+              "elapsed_time": 188372,
+              "damage_dealt": 302730380.7738222,
+              "deaths": 0,
+              "mobs_killed": 30,
+              "secrets_found": 3,
+              "damage_mitigated": 288642.7
+            },
+            {
+              "timestamp": 1645209214406,
+              "score_exploration": 90,
+              "score_speed": 100,
+              "score_skill": 100,
+              "score_bonus": 4,
+              "dungeon_class": "berserk",
+              "teammates": [
+                "5eba8418-c90a-41ec-b7b5-ce042c1d9e95",
+                "c006e945-fa10-477f-be98-231b7e0e5c83",
+                "5e948779-706e-4b87-9813-ca249b6f9df3",
+                "26853a81-459c-4ad1-9fbc-db7340b16168"
+              ],
+              "elapsed_time": 200585,
+              "damage_dealt": 384718867.53018415,
+              "deaths": 0,
+              "mobs_killed": 35,
+              "secrets_found": 1,
+              "damage_mitigated": 144609.9
+            },
+            {
+              "timestamp": 1645209712433,
+              "score_exploration": 90,
+              "score_speed": 100,
+              "score_skill": 99,
+              "score_bonus": 1,
+              "dungeon_class": "berserk",
+              "teammates": [
+                "5eba8418-c90a-41ec-b7b5-ce042c1d9e95",
+                "c006e945-fa10-477f-be98-231b7e0e5c83",
+                "26853a81-459c-4ad1-9fbc-db7340b16168",
+                "5e948779-706e-4b87-9813-ca249b6f9df3"
+              ],
+              "elapsed_time": 176548,
+              "damage_dealt": 399121261.48953855,
+              "deaths": 0,
+              "mobs_killed": 26,
+              "secrets_found": 5,
+              "damage_mitigated": 991218.95,
+              "ally_healing": 4119.76653125
+            },
+            {
+              "timestamp": 1645210267822,
+              "score_exploration": 88,
+              "score_speed": 100,
+              "score_skill": 97,
+              "score_bonus": 4,
+              "dungeon_class": "berserk",
+              "teammates": [
+                "5eba8418-c90a-41ec-b7b5-ce042c1d9e95",
+                "c006e945-fa10-477f-be98-231b7e0e5c83",
+                "5e948779-706e-4b87-9813-ca249b6f9df3",
+                "26853a81-459c-4ad1-9fbc-db7340b16168"
+              ],
+              "elapsed_time": 193655,
+              "damage_dealt": 209221821.9508534,
+              "deaths": 0,
+              "mobs_killed": 3,
+              "secrets_found": 1,
+              "damage_mitigated": 354180.7
+            },
+            {
+              "timestamp": 1645210528606,
+              "score_exploration": 86,
+              "score_speed": 100,
+              "score_skill": 100,
+              "score_bonus": 3,
+              "dungeon_class": "berserk",
+              "teammates": [
+                "5eba8418-c90a-41ec-b7b5-ce042c1d9e95",
+                "c006e945-fa10-477f-be98-231b7e0e5c83",
+                "26853a81-459c-4ad1-9fbc-db7340b16168",
+                "5e948779-706e-4b87-9813-ca249b6f9df3"
+              ],
+              "elapsed_time": 215630,
+              "damage_dealt": 197940883.7134706,
+              "deaths": 0,
+              "mobs_killed": 10,
+              "secrets_found": 4,
+              "damage_mitigated": 360108
+            },
+            {
+              "timestamp": 1645210765734,
+              "score_exploration": 82,
+              "score_speed": 100,
+              "score_skill": 100,
+              "score_bonus": 5,
+              "dungeon_class": "berserk",
+              "teammates": [
+                "5eba8418-c90a-41ec-b7b5-ce042c1d9e95",
+                "c006e945-fa10-477f-be98-231b7e0e5c83",
+                "5e948779-706e-4b87-9813-ca249b6f9df3",
+                "26853a81-459c-4ad1-9fbc-db7340b16168"
+              ],
+              "elapsed_time": 177275,
+              "damage_dealt": 243219966.54952815,
+              "deaths": 0,
+              "mobs_killed": 9,
+              "secrets_found": 2,
+              "damage_mitigated": 250618,
+              "ally_healing": 2197.329750000001
+            },
+            {
+              "timestamp": 1645211031806,
+              "score_exploration": 94,
+              "score_speed": 100,
+              "score_skill": 99,
+              "score_bonus": 5,
+              "dungeon_class": "berserk",
+              "teammates": [
+                "5eba8418-c90a-41ec-b7b5-ce042c1d9e95",
+                "c006e945-fa10-477f-be98-231b7e0e5c83",
+                "26853a81-459c-4ad1-9fbc-db7340b16168",
+                "5e948779-706e-4b87-9813-ca249b6f9df3"
+              ],
+              "elapsed_time": 210629,
+              "damage_dealt": 206496513.6170876,
+              "deaths": 0,
+              "mobs_killed": 15,
+              "secrets_found": 1,
+              "damage_mitigated": 610340.6
+            }
+          ],
+          "most_damage": {
+            "class": "archer",
+            "value": 4822645427.207764
+          }
+        },
+        "4": {
+          "name": "floor_4",
+          "icon_texture": "d7b69021f9c09647dfd9b34df3deaff70cfc740f6a26f612dd47503fc34c97f0",
+          "stats": {
+            "tier_completions": 1,
+            "milestone_completions": 1,
+            "fastest_time": 670345,
+            "best_score": 241,
+            "mobs_killed": 22,
+            "most_mobs_killed": 18
+          },
+          "best_runs": [
+            {
+              "timestamp": 1636573271226,
+              "score_exploration": 71,
+              "score_speed": 93,
+              "score_skill": 76,
+              "score_bonus": 1,
+              "dungeon_class": "berserk",
+              "teammates": [
+                "a745dbff-14cf-46fa-b13b-a492822a9bfa",
+                "8576a230-9c58-4676-897f-77ebc950b5b0",
+                "042d2871-6c6f-49c7-8ffb-fcb379edea22"
+              ],
+              "elapsed_time": 670345,
+              "damage_dealt": 198502326.0122038,
+              "deaths": 5,
+              "mobs_killed": 18,
+              "secrets_found": 1,
+              "damage_mitigated": 3201253.1
+            }
+          ],
+          "most_damage": {
+            "class": "berserk",
+            "value": 198502326.0122038
+          }
+        },
+        "5": {
+          "name": "floor_5",
+          "icon_texture": "d65cbce40e60e7a59a87fa8f4ecb6ccfc1514338c262614bf33739a6263f5405",
+          "stats": {
+            "tier_completions": 352,
+            "milestone_completions": 351,
+            "fastest_time": 154430,
+            "fastest_time_s": 154430,
+            "best_score": 305,
+            "mobs_killed": 17244,
+            "most_mobs_killed": 144,
+            "most_healing": 16510.32075,
+            "fastest_time_s_plus": 188423
+          },
+          "best_runs": [
+            {
+              "timestamp": 1645662501732,
+              "score_exploration": 97,
+              "score_speed": 100,
+              "score_skill": 100,
+              "score_bonus": 5,
+              "dungeon_class": "berserk",
+              "teammates": [
+                "864f1e5e-773c-4dd1-99a7-d7870744f809",
+                "a064a80b-f4c4-4439-adfd-0924e5bca92d",
+                "25280f70-2296-42fe-bf2e-111e55d121af",
+                "725d31db-5615-4736-b3a5-a6369d8d84c5"
+              ],
+              "elapsed_time": 255850,
+              "damage_dealt": 919356033.846948,
+              "deaths": 0,
+              "mobs_killed": 53,
+              "secrets_found": 9,
+              "damage_mitigated": 766835.15,
+              "ally_healing": 4657.110150000001
+            },
+            {
+              "timestamp": 1645662907808,
+              "score_exploration": 98,
+              "score_speed": 100,
+              "score_skill": 99,
+              "score_bonus": 5,
+              "dungeon_class": "berserk",
+              "teammates": [
+                "a064a80b-f4c4-4439-adfd-0924e5bca92d",
+                "7f587980-abe9-4931-8218-588455644c73",
+                "25280f70-2296-42fe-bf2e-111e55d121af",
+                "725d31db-5615-4736-b3a5-a6369d8d84c5"
+              ],
+              "elapsed_time": 249380,
+              "damage_dealt": 803399494.7042708,
+              "deaths": 1,
+              "mobs_killed": 47,
+              "secrets_found": 11,
+              "damage_mitigated": 1464258.25,
+              "ally_healing": 7485.386867187501
+            },
+            {
+              "timestamp": 1645736104656,
+              "score_exploration": 96,
+              "score_speed": 100,
+              "score_skill": 100,
+              "score_bonus": 5,
+              "dungeon_class": "berserk",
+              "teammates": [
+                "fd2eb3ee-eb3f-4758-a90b-bc7e785ff297",
+                "345fdaf0-34f5-4db5-be9c-24dc4e1fc108",
+                "8bbb9fdf-58f4-428a-b23d-94d6285ccbfc"
+              ],
+              "elapsed_time": 188423,
+              "damage_dealt": 1162142030.4358103,
+              "deaths": 0,
+              "mobs_killed": 58,
+              "secrets_found": 5,
+              "damage_mitigated": 545412.7666666666,
+              "ally_healing": 4650.030000000001
+            },
+            {
+              "timestamp": 1645824271204,
+              "score_exploration": 97,
+              "score_speed": 100,
+              "score_skill": 99,
+              "score_bonus": 5,
+              "dungeon_class": "berserk",
+              "teammates": [
+                "b7192278-d291-4cce-a597-9b258764e6da",
+                "ae971cf8-efe6-4106-8f2e-3c2086d787e4",
+                "81fd916d-83e2-4145-8d91-d59288a95729",
+                "76d9f732-859a-45db-be65-6b3bed86cb49"
+              ],
+              "elapsed_time": 316500,
+              "damage_dealt": 470991972.7741818,
+              "deaths": 0,
+              "mobs_killed": 25,
+              "secrets_found": 3,
+              "damage_mitigated": 348907.7396448964
+            },
+            {
+              "timestamp": 1646431777959,
+              "score_exploration": 98,
+              "score_speed": 100,
+              "score_skill": 99,
+              "score_bonus": 4,
+              "dungeon_class": "berserk",
+              "teammates": [
+                "733968a2-4b8a-483d-908c-05eeb0a05eb3",
+                "8596a0f6-ff7e-4ddc-89c3-9b629735f571",
+                "ff6201e2-d06d-472b-a750-641b8c86e6ba",
+                "1ae623aa-782b-4b72-b745-b4ca9faf1b15"
+              ],
+              "elapsed_time": 351502,
+              "damage_dealt": 3183055227.450874,
+              "deaths": 0,
+              "mobs_killed": 86,
+              "secrets_found": 8,
+              "damage_mitigated": 1135515.6410594047,
+              "ally_healing": 5939.125500000001
+            },
+            {
+              "timestamp": 1646483718094,
+              "score_exploration": 99,
+              "score_speed": 100,
+              "score_skill": 97,
+              "score_bonus": 5,
+              "dungeon_class": "berserk",
+              "teammates": [
+                "2c9b53b7-63f0-4938-95fb-a3eb15decc89",
+                "307851eb-eb3b-4c9c-a0ab-15dc1e5c38ad",
+                "f0d7af88-b013-414b-b3ff-d94a2e9b5408",
+                "af9788b9-275b-4541-a00a-8111ed41ef90"
+              ],
+              "elapsed_time": 325770,
+              "damage_dealt": 1068427878.6927752,
+              "deaths": 0,
+              "mobs_killed": 61,
+              "secrets_found": 10,
+              "damage_mitigated": 2156891.15,
+              "ally_healing": 5337.601500000002
+            },
+            {
+              "timestamp": 1646851820206,
+              "score_exploration": 97,
+              "score_speed": 100,
+              "score_skill": 99,
+              "score_bonus": 5,
+              "dungeon_class": "berserk",
+              "teammates": [
+                "4666b48a-8920-411e-9a93-3401231ba1a1",
+                "63240d0b-bd29-4282-bdd9-c9dd1e734b7a",
+                "ad44f2b6-da02-47d9-b4c2-6ee450b1f3e5",
+                "c0e19a0c-5d08-4de8-a047-91db3c6e0da8"
+              ],
+              "elapsed_time": 284367,
+              "damage_dealt": 1133212135.9977927,
+              "deaths": 0,
+              "mobs_killed": 53,
+              "secrets_found": 8,
+              "damage_mitigated": 196548.1,
+              "ally_healing": 384.80078125
+            },
+            {
+              "timestamp": 1647071900446,
+              "score_exploration": 100,
+              "score_speed": 100,
+              "score_skill": 100,
+              "score_bonus": 5,
+              "dungeon_class": "berserk",
+              "teammates": [
+                "8c845f82-37cb-4fa2-9ed5-5964fca87fb3",
+                "b8c356c0-41b3-401f-a13d-5f9d31852652",
+                "ff9ef1b7-bc4b-491f-879d-2c9ce634ef16",
+                "55c40576-608c-458e-b46b-44e6f2eea51d"
+              ],
+              "elapsed_time": 268131,
+              "damage_dealt": 668021431.4240484,
+              "deaths": 0,
+              "mobs_killed": 28,
+              "secrets_found": 4,
+              "damage_mitigated": 889169.3,
+              "ally_healing": 2907.1692500000004
+            },
+            {
+              "timestamp": 1647079799239,
+              "score_exploration": 96,
+              "score_speed": 100,
+              "score_skill": 100,
+              "score_bonus": 5,
+              "dungeon_class": "berserk",
+              "teammates": [
+                "d6965e8e-925a-4a04-bde7-4941e48f1b66",
+                "e865d345-f470-4840-94f4-4e5b03726b7e",
+                "bac586d9-26ea-4ae6-ad36-6caa89960a36",
+                "7d0de15e-0102-4044-a7cc-06f32cefd193"
+              ],
+              "elapsed_time": 188968,
+              "damage_dealt": 1284301345.1262696,
+              "deaths": 0,
+              "mobs_killed": 56,
+              "secrets_found": 6,
+              "damage_mitigated": 799163.4,
+              "ally_healing": 3117.460500000001
+            },
+            {
+              "timestamp": 1647176207925,
+              "score_exploration": 98,
+              "score_speed": 100,
+              "score_skill": 99,
+              "score_bonus": 5,
+              "dungeon_class": "berserk",
+              "teammates": [
+                "8e7c3ca8-75c6-4d7b-8170-3b0ebbbfa971",
+                "f323c569-d48d-4cb0-b439-ff3223863f12",
+                "960e75cc-0f5d-4677-a6d3-f008ceda9f4c",
+                "5ade015f-62f3-4157-a488-04cba05a7b1d"
+              ],
+              "elapsed_time": 243949,
+              "damage_dealt": 2469298017.8646207,
+              "deaths": 0,
+              "mobs_killed": 59,
+              "secrets_found": 6,
+              "damage_mitigated": 11003.655999994278,
+              "ally_healing": 1138.8828125
+            }
+          ],
+          "most_damage": {
+            "class": "berserk",
+            "value": 3498823125.6076183
+          }
+        },
+        "6": {
+          "name": "floor_6",
+          "icon_texture": "d65cbce40e60e7a59a87fa8f4ecb6ccfc1514338c262614bf33739a6263f5405",
+          "stats": {
+            "tier_completions": 1,
+            "milestone_completions": 1,
+            "fastest_time": 585639,
+            "fastest_time_s": 585639,
+            "best_score": 274,
+            "mobs_killed": 9,
+            "most_mobs_killed": 9
+          },
+          "best_runs": [
+            {
+              "timestamp": 1640299897728,
+              "score_exploration": 91,
+              "score_speed": 85,
+              "score_skill": 97,
+              "score_bonus": 1,
+              "dungeon_class": "berserk",
+              "teammates": [
+                "27c5e218-f83c-44a3-a8c8-0bef066f998a",
+                "070e77ff-3e84-48d0-a3bc-924518a22793"
+              ],
+              "elapsed_time": 585639,
+              "damage_dealt": 96535223.69454466,
+              "deaths": 0,
+              "mobs_killed": 9,
+              "secrets_found": 0,
+              "damage_mitigated": 950216.16
+            }
+          ],
+          "most_damage": {
+            "class": "berserk",
+            "value": 96535223.69454466
+          }
+        },
+        "7": {
+          "name": "floor_7",
+          "icon_texture": "d65cbce40e60e7a59a87fa8f4ecb6ccfc1514338c262614bf33739a6263f5405",
+          "stats": {
+            "best_score": 24,
+            "mobs_killed": 82,
+            "most_mobs_killed": 82,
+            "most_healing": 5915.289882812501
+          },
+          "most_damage": {
+            "class": "archer",
+            "value": 5874985556.308285
+          }
+        }
+      }
+    },
+    "classes": {
+      "healer": {
+        "experience": {
+          "xp": 580372.2237536227,
+          "level": 24,
+          "maxLevel": 50,
+          "xpCurrent": 91732,
+          "xpForNext": 180000,
+          "progress": 0.5096222222222222,
+          "levelCap": 50,
+          "uncappedLevel": 24,
+          "levelWithProgress": 24.509622222222223,
+          "unlockableLevelWithProgress": 24.509622222222223
+        },
+        "current": false
+      },
+      "mage": {
+        "experience": {
+          "xp": 7354560.666163881,
+          "level": 32,
+          "maxLevel": 50,
+          "xpCurrent": 1794920,
+          "xpForNext": 1900000,
+          "progress": 0.9446947368421053,
+          "levelCap": 50,
+          "uncappedLevel": 32,
+          "levelWithProgress": 32.9446947368421,
+          "unlockableLevelWithProgress": 32.9446947368421
+        },
+        "current": false
+      },
+      "berserk": {
+        "experience": {
+          "xp": 40795008.71580333,
+          "level": 39,
+          "maxLevel": 50,
+          "xpCurrent": 1235368,
+          "xpForNext": 12000000,
+          "progress": 0.10294733333333334,
+          "levelCap": 50,
+          "uncappedLevel": 39,
+          "levelWithProgress": 39.10294733333333,
+          "unlockableLevelWithProgress": 39.10294733333333
+        },
+        "current": false
+      },
+      "archer": {
+        "experience": {
+          "xp": 24247941.395477567,
+          "level": 37,
+          "maxLevel": 50,
+          "xpCurrent": 1088301,
+          "xpForNext": 7200000,
+          "progress": 0.15115291666666666,
+          "levelCap": 50,
+          "uncappedLevel": 37,
+          "levelWithProgress": 37.15115291666667,
+          "unlockableLevelWithProgress": 37.15115291666667
+        },
+        "current": true
+      },
+      "tank": {
+        "experience": {
+          "xp": 11341809.08791213,
+          "level": 34,
+          "maxLevel": 50,
+          "xpCurrent": 1382169,
+          "xpForNext": 3300000,
+          "progress": 0.4188390909090909,
+          "levelCap": 50,
+          "uncappedLevel": 34,
+          "levelWithProgress": 34.41883909090909,
+          "unlockableLevelWithProgress": 34.41883909090909
+        },
+        "current": false
+      }
+    },
+    "used_classes": true,
+    "selected_class": "archer",
+    "secrets_found": 15820,
+    "essence": {
+      "ice": 2902,
+      "wither": 541,
+      "spider": 1025,
+      "undead": 10543,
+      "diamond": 7650,
+      "dragon": 2963,
+      "gold": 389
+    },
+    "unlocked_collections": true,
+    "boss_collections": {
+      "catacombs_1": {
+        "name": "Bonzo",
+        "texture": "12716ecbf5b8da00b05f316ec6af61e8bd02805b21eb8e440151468dc656549c",
+        "tier": 3,
+        "maxed": false,
+        "killed": 108,
+        "floors": {
+          "catacombs_1": 86,
+          "master_catacombs_1": 22
+        },
+        "unclaimed": 1,
+        "claimed": [
+          "Red Nose",
+          "Bonzo's Mask"
+        ]
+      },
+      "catacombs_2": {
+        "name": "Scarf",
+        "texture": "7de7bbbdf22bfe17980d4e20687e386f11d59ee1db6f8b4762391b79a5ac532d",
+        "tier": 1,
+        "maxed": false,
+        "killed": 26,
+        "floors": {
+          "catacombs_2": 18,
+          "master_catacombs_2": 8
+        },
+        "unclaimed": 1,
+        "claimed": []
+      },
+      "catacombs_3": {
+        "name": "The Professor",
+        "texture": "9971cee8b833a62fc2a612f3503437fdf93cad692d216b8cf90bbb0538c47dd8",
+        "tier": 5,
+        "maxed": false,
+        "killed": 252,
+        "floors": {
+          "catacombs_3": 65,
+          "master_catacombs_3": 187
+        },
+        "unclaimed": 0,
+        "claimed": [
+          "Suspicious Vial",
+          "Adaptive Leggings",
+          "Golden Professor Head",
+          "Adaptive Chestplate",
+          "Recombobulator 3000"
+        ]
+      },
+      "catacombs_4": {
+        "name": "Thorn",
+        "texture": "8b6a72138d69fbbd2fea3fa251cabd87152e4f1c97e5f986bf685571db3cc0",
+        "tier": 0,
+        "maxed": false,
+        "killed": 32,
+        "floors": {
+          "catacombs_4": 31,
+          "master_catacombs_4": 1
+        },
+        "unclaimed": 0,
+        "claimed": []
+      },
+      "catacombs_5": {
+        "name": "Livid",
+        "texture": "c1007c5b7114abec734206d4fc613da4f3a0e99f71ff949cedadc99079135a0b",
+        "tier": 5,
+        "maxed": false,
+        "killed": 545,
+        "floors": {
+          "catacombs_5": 193,
+          "master_catacombs_5": 352
+        },
+        "unclaimed": 0,
+        "claimed": [
+          "Dark Orb",
+          "Golden Livid Head",
+          "Livid Dagger",
+          "Recombobulator 3000",
+          "Last Breath"
+        ]
+      },
+      "catacombs_6": {
+        "name": "Sadan",
+        "texture": "fa06cb0c471c1c9bc169af270cd466ea701946776056e472ecdaeb49f0f4a4dc",
+        "tier": 7,
+        "maxed": true,
+        "killed": 1056,
+        "floors": {
+          "catacombs_6": 1055,
+          "master_catacombs_6": 1
+        },
+        "unclaimed": 0,
+        "claimed": [
+          "Giant Tooth",
+          "Golden Sadan Head",
+          "Necromancer Lord Helmet",
+          "Recombobulator 3000",
+          "Necromancer Lord Chestplate",
+          "Necromancer Sword",
+          "Diamond Sadan Head"
+        ]
+      },
+      "catacombs_7": {
+        "name": "Necron",
+        "texture": "a435164c05cea299a3f016bbbed05706ebb720dac912ce4351c2296626aecd9a",
+        "tier": 4,
+        "maxed": false,
+        "killed": 456,
+        "floors": {
+          "catacombs_7": 456
+        },
+        "unclaimed": 0,
+        "claimed": [
+          "Wither Blood",
+          "Golden Necron Head",
+          "Wither Helmet",
+          "Recombobulator 3000"
+        ]
+      }
+    },
+    "journals": {
+      "pages_collected": 200,
+      "journals_completed": 17,
+      "total_pages": 200,
+      "maxed": true,
+      "journal_entries": [
+        {
+          "name": "Karyelle's Diary",
+          "pages_collected": 10,
+          "total_pages": 10
+        },
+        {
+          "name": "The Apprentice 3",
+          "pages_collected": 34,
+          "total_pages": 34
+        },
+        {
+          "name": "The Expedition Volume 3",
+          "pages_collected": 10,
+          "total_pages": 10
+        },
+        {
+          "name": "Grim Adversity",
+          "pages_collected": 9,
+          "total_pages": 9
+        },
+        {
+          "name": "The Study",
+          "pages_collected": 8,
+          "total_pages": 8
+        },
+        {
+          "name": "The Expedition Volume 1",
+          "pages_collected": 4,
+          "total_pages": 4
+        },
+        {
+          "name": "necrons_magic_scroll",
+          "pages_collected": 0,
+          "total_pages": null
+        },
+        {
+          "name": "Uncanny Remains",
+          "pages_collected": 7,
+          "total_pages": 7
+        },
+        {
+          "name": "The Expedition Volume 2",
+          "pages_collected": 5,
+          "total_pages": 5
+        },
+        {
+          "name": "The Expedition Volume 4",
+          "pages_collected": 11,
+          "total_pages": 11
+        },
+        {
+          "name": "Murderer",
+          "pages_collected": 18,
+          "total_pages": 18
+        },
+        {
+          "name": "The Walls",
+          "pages_collected": 24,
+          "total_pages": 24
+        },
+        {
+          "name": "The Eye",
+          "pages_collected": 8,
+          "total_pages": 8
+        },
+        {
+          "name": "Aftermath",
+          "pages_collected": 5,
+          "total_pages": 5
+        },
+        {
+          "name": "The Apprentice",
+          "pages_collected": 6,
+          "total_pages": 6
+        },
+        {
+          "name": "The Follower",
+          "pages_collected": 14,
+          "total_pages": 14
+        },
+        {
+          "name": "The Apprentice 2",
+          "pages_collected": 14,
+          "total_pages": 14
+        },
+        {
+          "name": "The Follower 2",
+          "pages_collected": 13,
+          "total_pages": 13
+        }
+      ]
+    }
+  }
+}
